@@ -65,7 +65,7 @@
         "wk:page":"%C4%8Crni_Potok_pri_Dragi"
     },
     "wof:country":"SI",
-    "wof:geomhash":"0f421986321b8caa1302c653db834e36",
+    "wof:geomhash":"5102a2a94e2ed93366af5143bfa6b4d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.68056,
     45.58694000000001
 ],
-  "geometry": {"coordinates":[14.68056,45.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.68056,45.58694],"type":"Point"}
 }

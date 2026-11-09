@@ -42,7 +42,7 @@
         "gn:id":8986897
     },
     "wof:country":"SI",
-    "wof:geomhash":"32b221659f93302b366af45a7c0e99d6",
+    "wof:geomhash":"15a39713be4c6d16ab6dc05a1d574c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     16.11121,
     46.40584000000001
 ],
-  "geometry": {"coordinates":[16.11121,46.40584000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.11121,46.40584],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Male_Pece"
     },
     "wof:country":"SI",
-    "wof:geomhash":"23e61b9446219f0be081fafe0201415c",
+    "wof:geomhash":"13256d509aa5b6fd81088e0a111cf2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.8388,
     45.91542000000001
 ],
-  "geometry": {"coordinates":[14.8388,45.91542000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.8388,45.91542],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Trebi%C5%BEani"
     },
     "wof:country":"SI",
-    "wof:geomhash":"849faac68a7675943d2b3a4195360fc3",
+    "wof:geomhash":"d104139dbb1f35b8f7ca7ddc06a5ff2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.90667,
     45.81444000000001
 ],
-  "geometry": {"coordinates":[13.90667,45.81444000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.90667,45.81444],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Utovlje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8ac31c18569a5f6f1edd8bc07a32da0c",
+    "wof:geomhash":"b270a34aeb677de4d6b344d4710a9c29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.88333,
     45.75389000000001
 ],
-  "geometry": {"coordinates":[13.88333,45.75389000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.88333,45.75389],"type":"Point"}
 }

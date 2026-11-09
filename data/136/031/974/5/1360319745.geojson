@@ -64,7 +64,7 @@
         "wk:page":"Klanec_pri_Gabrovki"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ca3c3b4055ab130452434fa30c5829fd",
+    "wof:geomhash":"ebc6bbfdd628122c9b68a13136eafc79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.98612,
     45.99359000000001
 ],
-  "geometry": {"coordinates":[14.98612,45.99359000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.98612,45.99359],"type":"Point"}
 }

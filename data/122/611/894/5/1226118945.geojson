@@ -64,7 +64,7 @@
         "wk:page":"Otonica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"bd71394b9ce5228dd15ad950f4bdb28d",
+    "wof:geomhash":"24366de3ef72d1399d3f19daba221803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.41771,
     45.80759000000001
 ],
-  "geometry": {"coordinates":[14.41771,45.80759000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.41771,45.80759],"type":"Point"}
 }

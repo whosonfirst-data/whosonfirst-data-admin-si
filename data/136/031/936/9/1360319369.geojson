@@ -67,7 +67,7 @@
         "wk:page":"Vizore"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d032df103ccbcd6362968db6e6b9053f",
+    "wof:geomhash":"d71665c90edfbb6b691344ef94d5c75e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.2661,
     46.31959000000001
 ],
-  "geometry": {"coordinates":[15.2661,46.31959000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.2661,46.31959],"type":"Point"}
 }

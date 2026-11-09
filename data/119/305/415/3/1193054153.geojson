@@ -64,7 +64,7 @@
         "wk:page":"Ljube%C5%BE_v_Lazih"
     },
     "wof:country":"SI",
-    "wof:geomhash":"30964a37f387b51c264108da90a9bb0c",
+    "wof:geomhash":"2f3b6bcbcd83397d6d9194e14e188791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.9428,
     46.03194000000001
 ],
-  "geometry": {"coordinates":[14.9428,46.03194000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.9428,46.03194],"type":"Point"}
 }

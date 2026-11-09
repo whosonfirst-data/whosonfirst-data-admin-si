@@ -61,7 +61,7 @@
         "wk:page":"Tel%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"5a90cedddab2b5f4ac6b56c186f354c5",
+    "wof:geomhash":"4820d599fec4f4f86b165124d86190ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.26111,
     45.95744000000001
 ],
-  "geometry": {"coordinates":[15.26111,45.95744000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.26111,45.95744],"type":"Point"}
 }

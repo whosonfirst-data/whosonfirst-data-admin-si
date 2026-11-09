@@ -67,7 +67,7 @@
         "wk:page":"Skorno%2C_%C5%A0martno_ob_Paki"
     },
     "wof:country":"SI",
-    "wof:geomhash":"14473d580ba73197c3dce0ca96f80bd1",
+    "wof:geomhash":"02dc9cfb326d32a81249824d94b7463f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.0,
     46.36667
 ],
-  "geometry": {"coordinates":[15.0,46.36667],"type":"Point"}
+  "geometry": {"coordinates":[15,46.36667],"type":"Point"}
 }

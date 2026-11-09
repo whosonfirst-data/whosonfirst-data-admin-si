@@ -67,7 +67,7 @@
         "wk:page":"Spodnja_Gorica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"006149bd533cb72ae4a2dd6bd94f1ce0",
+    "wof:geomhash":"cc78d85a9f172774881b17bbe9b28770",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.69222,
     46.41889000000001
 ],
-  "geometry": {"coordinates":[15.69222,46.41889000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.69222,46.41889],"type":"Point"}
 }

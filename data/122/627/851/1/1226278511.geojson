@@ -67,7 +67,7 @@
         "wk:page":"%C5%A0alinci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"294fef36baafa32fcf5f7871af01f03d",
+    "wof:geomhash":"007feb01ec072a075d75426e6a9a522e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.17527999999999,
     46.54833
 ],
-  "geometry": {"coordinates":[16.17527999999999,46.54833],"type":"Point"}
+  "geometry": {"coordinates":[16.17528,46.54833],"type":"Point"}
 }

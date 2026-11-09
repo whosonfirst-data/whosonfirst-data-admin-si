@@ -67,7 +67,7 @@
         "wk:page":"Jareninski_Dol"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4ca4b3c15e3555acd68c77cf19c7b6d0",
+    "wof:geomhash":"48c0e34f718b0cc51adf8b2d0d007a85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.69889,
     46.62889000000001
 ],
-  "geometry": {"coordinates":[15.69889,46.62889000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.69889,46.62889],"type":"Point"}
 }

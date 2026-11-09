@@ -61,7 +61,7 @@
         "wk:page":"%C5%A0klendrovec"
     },
     "wof:country":"SI",
-    "wof:geomhash":"bb64f375e0c3f5156fd41612a552553e",
+    "wof:geomhash":"499eb073fc53c6f4f3fd40d0c7135963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.01131,
     46.09907000000001
 ],
-  "geometry": {"coordinates":[15.01131,46.09907000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.01131,46.09907],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Kompolje%2C_Dobrepolje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"57ccbeb61852a28f710b2deab4961034",
+    "wof:geomhash":"7b1766032a6ebb3e844d957a645c2e41",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -89,5 +89,5 @@
     14.71528,
     45.81639000000001
 ],
-  "geometry": {"coordinates":[14.71528,45.81639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.71528,45.81639],"type":"Point"}
 }

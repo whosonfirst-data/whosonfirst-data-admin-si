@@ -63,7 +63,7 @@
         "wk:page":"Kranj%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2820c5892e01957a2177658d6f79fc6f",
+    "wof:geomhash":"6d59fb6c62167359713f9a91025f467a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.4325,
     45.83694000000001
 ],
-  "geometry": {"coordinates":[14.4325,45.83694000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.4325,45.83694],"type":"Point"}
 }

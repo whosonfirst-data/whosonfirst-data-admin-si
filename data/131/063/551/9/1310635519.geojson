@@ -73,7 +73,7 @@
         "wk:page":"Koritnica%2C_Tolmin"
     },
     "wof:country":"SI",
-    "wof:geomhash":"672b3a46dd26aaf06356fbdd0ce363d7",
+    "wof:geomhash":"253acdaa5d97a93dabd324be51142508",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     13.87111,
     46.16889000000001
 ],
-  "geometry": {"coordinates":[13.87111,46.16889000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.87111,46.16889],"type":"Point"}
 }

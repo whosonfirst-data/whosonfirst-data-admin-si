@@ -52,7 +52,7 @@
         "wk:page":"Gri%C4%8Dek_pri_%C5%BDeljnah"
     },
     "wof:country":"SI",
-    "wof:geomhash":"43712eb44f8f43921c010ceaffd8b870",
+    "wof:geomhash":"199b5c0b3f4054f69cc3db9cbb0e0e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     14.87971,
     45.65714000000001
 ],
-  "geometry": {"coordinates":[14.87971,45.65714000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.87971,45.65714],"type":"Point"}
 }

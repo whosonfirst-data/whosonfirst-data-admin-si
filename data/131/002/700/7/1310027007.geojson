@@ -82,7 +82,7 @@
         "wk:page":"Dobrovo"
     },
     "wof:country":"SI",
-    "wof:geomhash":"40ac90f49fcad317b89968819d9db1c7",
+    "wof:geomhash":"b1c2baefe8d2219d8a6f457bb5c063de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     13.52639,
     45.99639000000001
 ],
-  "geometry": {"coordinates":[13.52639,45.99639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.52639,45.99639],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Srga%C5%A1i"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f939802dc98387cb179a6fccee0da3a5",
+    "wof:geomhash":"8a1604fc4c868941b38f249c19f3e483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     13.69361,
     45.50917000000001
 ],
-  "geometry": {"coordinates":[13.69361,45.50917000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.69361,45.50917],"type":"Point"}
 }

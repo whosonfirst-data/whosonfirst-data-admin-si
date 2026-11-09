@@ -67,7 +67,7 @@
         "wk:page":"Dela%C4%8D%2C_Kostel"
     },
     "wof:country":"SI",
-    "wof:geomhash":"105d42afa1c0d0f3cfb45c384201f956",
+    "wof:geomhash":"85ca285e9148b0216fae94d90191104e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.89656,
     45.50324000000001
 ],
-  "geometry": {"coordinates":[14.89656,45.50324000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.89656,45.50324],"type":"Point"}
 }

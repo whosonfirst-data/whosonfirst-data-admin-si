@@ -61,7 +61,7 @@
         "wk:page":"Leskovica_pri_%C5%A0martnem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"264adbd12680469e7c8fb531be5be4d9",
+    "wof:geomhash":"160cd71230ae584d992228158f3a1c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.85829,
     46.01074000000001
 ],
-  "geometry": {"coordinates":[14.85829,46.01074000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.85829,46.01074],"type":"Point"}
 }

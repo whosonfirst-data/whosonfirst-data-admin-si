@@ -64,7 +64,7 @@
         "wk:page":"%C5%BDa%C5%BEar"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c58c52ae9cd25532f8c5b31d87856db7",
+    "wof:geomhash":"8231e1a2c850146312b63257b002f5b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.25806,
     46.00917000000001
 ],
-  "geometry": {"coordinates":[14.25806,46.00917000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.25806,46.00917],"type":"Point"}
 }

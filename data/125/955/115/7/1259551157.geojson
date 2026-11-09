@@ -70,7 +70,7 @@
         "wk:page":"Oti%C5%A1ki_Vrh"
     },
     "wof:country":"SI",
-    "wof:geomhash":"1daeeaf7f3c0f36503788e25be19b88c",
+    "wof:geomhash":"af331938efb596b0507040cba21537c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.03278,
     46.57389000000001
 ],
-  "geometry": {"coordinates":[15.03278,46.57389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.03278,46.57389],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Prigorica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"cb5537cda230e87604ad233b7a140621",
+    "wof:geomhash":"c6d9492c554ac4489251b1a18e3296aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.7525,
     45.71194000000001
 ],
-  "geometry": {"coordinates":[14.7525,45.71194000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.7525,45.71194],"type":"Point"}
 }

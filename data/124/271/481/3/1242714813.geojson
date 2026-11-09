@@ -64,7 +64,7 @@
         "wk:page":"Oko%C5%A1ka_Gora"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9f5c8d3d6f1fff544698ab7567ac4ac1",
+    "wof:geomhash":"68a988130ea495a8413ea27283e963a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.48276,
     46.39402000000001
 ],
-  "geometry": {"coordinates":[15.48276,46.39402000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.48276,46.39402],"type":"Point"}
 }

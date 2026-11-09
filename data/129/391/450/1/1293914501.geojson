@@ -61,7 +61,7 @@
         "wk:page":"Laze_pri_Bo%C5%A1tanju"
     },
     "wof:country":"SI",
-    "wof:geomhash":"dd056f692000cc7c7a3a7af2d3eaf75b",
+    "wof:geomhash":"3afa329712688171d882b686294573b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.27373,
     45.99084000000001
 ],
-  "geometry": {"coordinates":[15.27373,45.99084000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.27373,45.99084],"type":"Point"}
 }

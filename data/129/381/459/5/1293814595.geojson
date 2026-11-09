@@ -64,7 +64,7 @@
         "wk:page":"Torka"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c95b21ecdae2f08ef7d727b0edbf93c3",
+    "wof:geomhash":"c696651d04c1a1b5af2a1ce069a3d820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.08907,
     46.23119000000001
 ],
-  "geometry": {"coordinates":[14.08907,46.23119000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.08907,46.23119],"type":"Point"}
 }

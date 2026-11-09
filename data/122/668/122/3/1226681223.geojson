@@ -67,7 +67,7 @@
         "wk:page":"Topole%2C_Menge%C5%A1"
     },
     "wof:country":"SI",
-    "wof:geomhash":"e5a65381e6e859a40ddd8a1e5117f125",
+    "wof:geomhash":"af895568917df58ba62db110cb85b5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.55646,
     46.17834000000001
 ],
-  "geometry": {"coordinates":[14.55646,46.17834000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.55646,46.17834],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Koro%C5%A1%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8e63717b251308b95d6edd3f68a7a039",
+    "wof:geomhash":"7cf4d62d386de638cd3d67f57f64446c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.4439,
     45.84719000000001
 ],
-  "geometry": {"coordinates":[14.4439,45.84719000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.4439,45.84719],"type":"Point"}
 }

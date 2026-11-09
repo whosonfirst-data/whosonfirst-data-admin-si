@@ -64,7 +64,7 @@
         "wk:page":"Kamnje%2C_%C5%A0entrupert"
     },
     "wof:country":"SI",
-    "wof:geomhash":"42b4311ee28179e5da98f659045f3584",
+    "wof:geomhash":"a8a435e056127a2c5667675bf2472354",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.09256,
     45.98484000000001
 ],
-  "geometry": {"coordinates":[15.09256,45.98484000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.09256,45.98484],"type":"Point"}
 }

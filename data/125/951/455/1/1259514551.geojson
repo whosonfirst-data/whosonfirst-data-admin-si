@@ -61,7 +61,7 @@
         "wk:page":"Gru%C5%A1ovlje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"3b4a7111ab429c2e86cbe5e262c46daf",
+    "wof:geomhash":"16057feebdb3984cd9be744608b6d3a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.88118,
     46.31789000000001
 ],
-  "geometry": {"coordinates":[14.88118,46.31789000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.88118,46.31789],"type":"Point"}
 }

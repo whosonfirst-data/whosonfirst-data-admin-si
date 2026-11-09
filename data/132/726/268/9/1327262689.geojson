@@ -64,7 +64,7 @@
         "wk:page":"Gabrovnik"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2a13f22491a41ce2f081f3b1eb42d02e",
+    "wof:geomhash":"88c09a9050eedc294877bd0e4082e699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.44282,
     46.35404000000001
 ],
-  "geometry": {"coordinates":[15.44282,46.35404000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.44282,46.35404],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Svr%C5%BEaki"
     },
     "wof:country":"SI",
-    "wof:geomhash":"82edef40245d831951b09fe0df00caf3",
+    "wof:geomhash":"c816a9f34c3856d494bc814b887b0e2d",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -89,5 +89,5 @@
     15.32472,
     45.66164000000001
 ],
-  "geometry": {"coordinates":[15.32472,45.66164000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.32472,45.66164],"type":"Point"}
 }

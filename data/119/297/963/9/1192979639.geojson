@@ -74,7 +74,7 @@
         "wk:page":"%C4%8Cre%C5%A1njevci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"94b5ed090acb0bc4ddf0d3b997e839a7",
+    "wof:geomhash":"8db71db21142bb4429c03e61d01bd71f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     15.99583,
     46.65472000000001
 ],
-  "geometry": {"coordinates":[15.99583,46.65472000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.99583,46.65472],"type":"Point"}
 }

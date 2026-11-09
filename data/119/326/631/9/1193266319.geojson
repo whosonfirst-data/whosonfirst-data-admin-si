@@ -67,7 +67,7 @@
         "wk:page":"Jezerce_pri_%C5%A0martnem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"76058555ee7de9977dd53857196e3c8a",
+    "wof:geomhash":"36b5306f9f986c6034f5fe26d0b3b95f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.24772,
     46.30909000000001
 ],
-  "geometry": {"coordinates":[15.24772,46.30909000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.24772,46.30909],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Prapretno%2C_%C5%A0entjur"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2bb7434a60fa1b5e36f7a043ed1fb8dd",
+    "wof:geomhash":"bd0c57148daf4afaa536ccf42072b245",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.37668,
     46.07964000000001
 ],
-  "geometry": {"coordinates":[15.37668,46.07964000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.37668,46.07964],"type":"Point"}
 }

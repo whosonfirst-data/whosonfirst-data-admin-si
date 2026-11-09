@@ -64,7 +64,7 @@
         "wk:page":"Gaj%2C_%C5%A0marje_pri_Jel%C5%A1ah"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a39991c2de93778382bef49a2489471b",
+    "wof:geomhash":"aeff3408499243a8b522fe41a56ea439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.54888,
     46.22479000000001
 ],
-  "geometry": {"coordinates":[15.54888,46.22479000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.54888,46.22479],"type":"Point"}
 }

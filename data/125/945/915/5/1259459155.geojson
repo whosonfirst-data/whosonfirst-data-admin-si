@@ -64,7 +64,7 @@
         "wk:page":"Bel%C4%8Dji_Vrh"
     },
     "wof:country":"SI",
-    "wof:geomhash":"43db81dd8922dd26ea38b29677001f39",
+    "wof:geomhash":"609a818232e11386c7437fcbc5bc996f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.2123,
     45.49424000000001
 ],
-  "geometry": {"coordinates":[15.2123,45.49424000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.2123,45.49424],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Vi%C4%8D%2C_Dravograd"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9d74523b6e73ac25ecb184fdc2bde930",
+    "wof:geomhash":"ec41b7627eefd3789ad3c08e44514ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.0,
     46.6
 ],
-  "geometry": {"coordinates":[15.0,46.6],"type":"Point"}
+  "geometry": {"coordinates":[15,46.6],"type":"Point"}
 }

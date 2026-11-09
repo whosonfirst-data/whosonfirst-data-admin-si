@@ -67,7 +67,7 @@
         "wk:page":"Hardek"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c10815f7d24ab4c067a2b142be43e2fe",
+    "wof:geomhash":"9fdf628eb5453ee7d550d44a80639c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.15969,
     46.41464000000001
 ],
-  "geometry": {"coordinates":[16.15969,46.41464000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.15969,46.41464],"type":"Point"}
 }

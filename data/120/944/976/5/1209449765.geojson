@@ -64,7 +64,7 @@
         "wk:page":"Livek"
     },
     "wof:country":"SI",
-    "wof:geomhash":"96f7b8d2ab56a73a51aa50d17c5df89a",
+    "wof:geomhash":"d1b6f4b0f81456834a0b72d1a7addbf4",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -89,5 +89,5 @@
     13.60222,
     46.20444000000001
 ],
-  "geometry": {"coordinates":[13.60222,46.20444000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.60222,46.20444],"type":"Point"}
 }

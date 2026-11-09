@@ -64,7 +64,7 @@
         "wk:page":"Pozirno"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6422c52722a206510db3173567c61023",
+    "wof:geomhash":"6767b143c2c48ef0fa5747c57f2598b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.24164,
     46.23034000000001
 ],
-  "geometry": {"coordinates":[14.24164,46.23034000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.24164,46.23034],"type":"Point"}
 }

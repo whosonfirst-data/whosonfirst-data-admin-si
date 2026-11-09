@@ -64,7 +64,7 @@
         "wk:page":"Rudnica%2C_Pod%C4%8Detrtek"
     },
     "wof:country":"SI",
-    "wof:geomhash":"189acf88ef44e49b4d3740ade363e9f4",
+    "wof:geomhash":"8752ca1356dcb3606a4daf7028cde021",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.5375,
     46.14944000000001
 ],
-  "geometry": {"coordinates":[15.5375,46.14944000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.5375,46.14944],"type":"Point"}
 }

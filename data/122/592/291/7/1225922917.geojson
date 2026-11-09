@@ -70,7 +70,7 @@
         "wk:page":"Planina_pri_Cerknem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c9d101365b0f4df86afe060997417b84",
+    "wof:geomhash":"b3e99a3571777c2369c5563bbd04dba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.0,
     46.11667
 ],
-  "geometry": {"coordinates":[14.0,46.11667],"type":"Point"}
+  "geometry": {"coordinates":[14,46.11667],"type":"Point"}
 }

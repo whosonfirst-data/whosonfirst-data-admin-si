@@ -67,7 +67,7 @@
         "wk:page":"Gotenc"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9af818a84a1e56ac0c384f057c400acb",
+    "wof:geomhash":"87d19097e44733919a3aaa1b723b27be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.88541,
     45.49100000000001
 ],
-  "geometry": {"coordinates":[14.88541,45.49100000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.88541,45.491],"type":"Point"}
 }

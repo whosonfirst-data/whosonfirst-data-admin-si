@@ -67,7 +67,7 @@
         "wk:page":"Turn%C5%A1e"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2c308350fd157307b22550888c8c5190",
+    "wof:geomhash":"577cad0e8f8879f56a37e6765150347d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.62005,
     46.16549000000001
 ],
-  "geometry": {"coordinates":[14.62005,46.16549000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.62005,46.16549],"type":"Point"}
 }

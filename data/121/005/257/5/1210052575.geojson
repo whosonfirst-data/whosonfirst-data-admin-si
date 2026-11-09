@@ -61,7 +61,7 @@
         "wk:page":"Vrba%2C_Lukovica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6f101144675732f6b6d0b34fe7386cb4",
+    "wof:geomhash":"47fac9a2a7c692b22b25627999abe1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.66581,
     46.15669000000001
 ],
-  "geometry": {"coordinates":[14.66581,46.15669000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.66581,46.15669],"type":"Point"}
 }

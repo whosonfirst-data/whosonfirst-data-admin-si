@@ -64,7 +64,7 @@
         "wk:page":"Dro%C5%BEanje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"df6f649e235e20242c1dac75443024c4",
+    "wof:geomhash":"2c6a8aa09a71a00c5f77287f21ec04e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.3109,
     46.02829000000001
 ],
-  "geometry": {"coordinates":[15.3109,46.02829000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.3109,46.02829],"type":"Point"}
 }

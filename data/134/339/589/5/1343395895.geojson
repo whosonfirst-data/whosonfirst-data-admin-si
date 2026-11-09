@@ -64,7 +64,7 @@
         "wk:page":"Hram%C5%A1e"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6e5231723d41da99dcbf2ad29b180365",
+    "wof:geomhash":"a56dde14b4ee2f40b38f82621dd89f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.19201,
     46.31247000000001
 ],
-  "geometry": {"coordinates":[15.19201,46.31247000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.19201,46.31247],"type":"Point"}
 }

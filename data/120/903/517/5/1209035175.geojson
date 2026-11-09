@@ -67,7 +67,7 @@
         "wk:page":"Ravne_na_Blokah"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ca9174a533c272731c5fb1f157da078f",
+    "wof:geomhash":"7f31436e7ebb5e15d7ce4257efa1bb4a",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -92,5 +92,5 @@
     14.5425,
     45.75389000000001
 ],
-  "geometry": {"coordinates":[14.5425,45.75389000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.5425,45.75389],"type":"Point"}
 }

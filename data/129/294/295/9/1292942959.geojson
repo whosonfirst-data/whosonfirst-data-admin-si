@@ -61,7 +61,7 @@
         "wk:page":"Strug"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8a603bbb6fefddf2eedfaa3bcb499267",
+    "wof:geomhash":"8737b8bc14dacbcf296094ea228b5e21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.69608,
     46.33600000000001
 ],
-  "geometry": {"coordinates":[15.69608,46.33600000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.69608,46.336],"type":"Point"}
 }

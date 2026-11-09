@@ -61,7 +61,7 @@
         "wk:page":"Stara_Gora_pri_%C5%A0entilju"
     },
     "wof:country":"SI",
-    "wof:geomhash":"74b6e3f854430ad62c9228d8e2c3af91",
+    "wof:geomhash":"f2125114111b592fc5cf481dc7003439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.63946,
     46.65694000000001
 ],
-  "geometry": {"coordinates":[15.63946,46.65694000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.63946,46.65694],"type":"Point"}
 }

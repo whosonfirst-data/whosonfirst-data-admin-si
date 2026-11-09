@@ -69,7 +69,7 @@
         "wk:page":"Fala%2C_Ru%C5%A1e"
     },
     "wof:country":"SI",
-    "wof:geomhash":"3392a9b806cf555fefbf66047ad36d6a",
+    "wof:geomhash":"2274d39faf267485e8b85bab305d2f50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.44722,
     46.54389000000001
 ],
-  "geometry": {"coordinates":[15.44722,46.54389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.44722,46.54389],"type":"Point"}
 }

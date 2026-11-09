@@ -64,7 +64,7 @@
         "wk:page":"%C5%A0lovrenc"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4cc007d97627fe228c69fe0dc56e0433",
+    "wof:geomhash":"bc4632a5a92d7f60c57d716c1bf750eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.51476,
     46.01179000000001
 ],
-  "geometry": {"coordinates":[13.51476,46.01179000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.51476,46.01179],"type":"Point"}
 }

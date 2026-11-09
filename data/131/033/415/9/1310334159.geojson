@@ -67,7 +67,7 @@
         "wk:page":"%C5%A0kalce"
     },
     "wof:country":"SI",
-    "wof:geomhash":"142681025bdfab0b737be8033a081934",
+    "wof:geomhash":"4c590db7d4ebe7330b8cb4eedc054b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.42261,
     46.34869000000001
 ],
-  "geometry": {"coordinates":[15.42261,46.34869000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.42261,46.34869],"type":"Point"}
 }

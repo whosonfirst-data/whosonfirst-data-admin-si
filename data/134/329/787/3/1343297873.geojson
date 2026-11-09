@@ -64,7 +64,7 @@
         "wk:page":"Saku%C5%A1ak"
     },
     "wof:country":"SI",
-    "wof:geomhash":"34ec32c13493ae2e94bf4974a8e5fde7",
+    "wof:geomhash":"3fda4a5069d11a1dd68a60572af1825c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.98426,
     46.50154000000001
 ],
-  "geometry": {"coordinates":[15.98426,46.50154000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.98426,46.50154],"type":"Point"}
 }

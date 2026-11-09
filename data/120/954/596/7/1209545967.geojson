@@ -64,7 +64,7 @@
         "wk:page":"Gabrk%2C_%C5%A0kofja_Loka"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9517056ffb61e5f126a92f6da1ce5a5c",
+    "wof:geomhash":"a9560efe2d22c21ac032d6ef0eedc917",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -89,5 +89,5 @@
     14.24944,
     46.13639000000001
 ],
-  "geometry": {"coordinates":[14.24944,46.13639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.24944,46.13639],"type":"Point"}
 }

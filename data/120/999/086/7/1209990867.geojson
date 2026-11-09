@@ -61,7 +61,7 @@
         "wk:page":"Tisovec%2C_Dobrepolje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a037e2da57d8962a0dd6d85dca8a983c",
+    "wof:geomhash":"ef00dde3b1af16699bd1c4b2196f3172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.77194,
     45.82167000000001
 ],
-  "geometry": {"coordinates":[14.77194,45.82167000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.77194,45.82167],"type":"Point"}
 }

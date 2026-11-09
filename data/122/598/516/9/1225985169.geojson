@@ -61,7 +61,7 @@
         "wk:page":"Orehek_pri_Materiji"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fb667060abf40fc88361faf4714795ab",
+    "wof:geomhash":"1ab12f8ee96eae8bf626869f28156f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.06235,
     45.58609000000001
 ],
-  "geometry": {"coordinates":[14.06235,45.58609000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.06235,45.58609],"type":"Point"}
 }

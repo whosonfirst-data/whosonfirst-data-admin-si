@@ -76,7 +76,7 @@
         "wk:page":"Ri%C5%BEana"
     },
     "wof:country":"SI",
-    "wof:geomhash":"18e678fa16666aafa237bc46e8af6cb1",
+    "wof:geomhash":"2c31ec722329cca0022b43e31f36a652",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     13.84861,
     45.54389000000001
 ],
-  "geometry": {"coordinates":[13.84861,45.54389000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.84861,45.54389],"type":"Point"}
 }

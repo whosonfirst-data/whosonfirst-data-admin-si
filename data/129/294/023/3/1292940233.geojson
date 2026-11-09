@@ -67,7 +67,7 @@
         "wk:page":"Slamna_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2f9b9a0efca322c8a83447accf12993a",
+    "wof:geomhash":"8682b6e8ec0f6c05ca9bfd2bdbdcea41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.32986,
     45.67189000000001
 ],
-  "geometry": {"coordinates":[15.32986,45.67189000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.32986,45.67189],"type":"Point"}
 }

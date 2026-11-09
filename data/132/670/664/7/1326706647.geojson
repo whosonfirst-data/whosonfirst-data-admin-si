@@ -70,7 +70,7 @@
         "wk:page":"Stari_Trg_ob_Kolpi"
     },
     "wof:country":"SI",
-    "wof:geomhash":"b69911c56a1a3dd94f8ebdce69809e64",
+    "wof:geomhash":"3a6d6e6397a4d40f774e2844a6d420ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.07719,
     45.49359000000001
 ],
-  "geometry": {"coordinates":[15.07719,45.49359000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.07719,45.49359],"type":"Point"}
 }

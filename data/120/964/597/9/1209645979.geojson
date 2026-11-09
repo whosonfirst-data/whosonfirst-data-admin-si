@@ -61,7 +61,7 @@
         "wk:page":"Vrhovo_pri_%C5%A0entlovrencu"
     },
     "wof:country":"SI",
-    "wof:geomhash":"79c482146fb022be4c1cd2c3a73e80a5",
+    "wof:geomhash":"28edf98b328aedd331113e30a3771fc1",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -86,5 +86,5 @@
     14.92843,
     45.93794000000001
 ],
-  "geometry": {"coordinates":[14.92843,45.93794000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.92843,45.93794],"type":"Point"}
 }

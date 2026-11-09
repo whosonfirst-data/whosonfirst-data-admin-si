@@ -43,7 +43,7 @@
         "wk:page":"Hrastovica%2C_Mokronog%E2%80%93Trebelno"
     },
     "wof:country":"SI",
-    "wof:geomhash":"05b9415b654380717214c20e2b3b9b51",
+    "wof:geomhash":"ef2cbf24b5c6654d67f3f5f70a2d6508",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     15.14739,
     45.96899000000001
 ],
-  "geometry": {"coordinates":[15.14739,45.96899000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.14739,45.96899],"type":"Point"}
 }

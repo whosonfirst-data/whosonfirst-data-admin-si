@@ -67,7 +67,7 @@
         "wk:page":"Kraljevci%2C_Sveti_Jurij_ob_%C5%A0%C4%8Davnici"
     },
     "wof:country":"SI",
-    "wof:geomhash":"e4c6438e28d51bf71c0cb97f000b7e0f",
+    "wof:geomhash":"8482b3355a257895f4ff10db5c7243df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.0,
     46.56667
 ],
-  "geometry": {"coordinates":[16.0,46.56667],"type":"Point"}
+  "geometry": {"coordinates":[16,46.56667],"type":"Point"}
 }

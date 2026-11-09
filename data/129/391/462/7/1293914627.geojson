@@ -67,7 +67,7 @@
         "wk:page":"Spodnji_Jakobski_Dol"
     },
     "wof:country":"SI",
-    "wof:geomhash":"64f5d596021daccdce6afa7e0b2a65e5",
+    "wof:geomhash":"3e7c8e89a4aa929ff94c5b1f7f14cc7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.74558,
     46.61512000000001
 ],
-  "geometry": {"coordinates":[15.74558,46.61512000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.74558,46.61512],"type":"Point"}
 }

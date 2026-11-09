@@ -67,7 +67,7 @@
         "wk:page":"Pir%C4%8De%2C_Kostel"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9b71f70e1207466b2d05bf66c91b45ea",
+    "wof:geomhash":"21370e33f4a0ca207c385e2bb4f7894f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.85582,
     45.46964000000001
 ],
-  "geometry": {"coordinates":[14.85582,45.46964000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.85582,45.46964],"type":"Point"}
 }

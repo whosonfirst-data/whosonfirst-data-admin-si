@@ -67,7 +67,7 @@
         "wk:page":"Dol_pri_Hrastniku"
     },
     "wof:country":"SI",
-    "wof:geomhash":"756a43fb51d5b7ab6e08dff32623afd3",
+    "wof:geomhash":"dfe732e0002d0d68d33dd2bcf9603037",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.11278,
     46.14194000000001
 ],
-  "geometry": {"coordinates":[15.11278,46.14194000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11278,46.14194],"type":"Point"}
 }

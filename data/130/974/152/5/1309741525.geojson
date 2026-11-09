@@ -64,7 +64,7 @@
         "wk:page":"Hom%2C_%C5%A0entrupert"
     },
     "wof:country":"SI",
-    "wof:geomhash":"31ca2cdd86fda03fe4bd7498fa95f285",
+    "wof:geomhash":"a8f166b8b5c91413ff1d3c2530b9e37c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.09646,
     45.99959000000001
 ],
-  "geometry": {"coordinates":[15.09646,45.99959000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.09646,45.99959],"type":"Point"}
 }

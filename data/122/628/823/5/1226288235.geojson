@@ -42,7 +42,7 @@
         "wk:page":"Perovo_%28Grosuplje%29"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f4e41f883e684e4c9d2d1b8091f7d89a",
+    "wof:geomhash":"51d1d66b4075efe82d9fc667d03f1c23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     14.6775,
     45.96722000000001
 ],
-  "geometry": {"coordinates":[14.6775,45.96722000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.6775,45.96722],"type":"Point"}
 }

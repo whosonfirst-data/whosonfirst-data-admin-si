@@ -64,7 +64,7 @@
         "wk:page":"Drakovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"7ed0f6be535a559fc1752576a2c6e323",
+    "wof:geomhash":"5d511048bb40cf9c342d1292da2e841d",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -89,5 +89,5 @@
     16.03507999999999,
     46.53332
 ],
-  "geometry": {"coordinates":[16.03507999999999,46.53332],"type":"Point"}
+  "geometry": {"coordinates":[16.03508,46.53332],"type":"Point"}
 }

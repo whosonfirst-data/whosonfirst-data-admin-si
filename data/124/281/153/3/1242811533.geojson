@@ -73,7 +73,7 @@
         "wk:page":"Zgornje_%C5%A0kofije"
     },
     "wof:country":"SI",
-    "wof:geomhash":"58e22aa3be3ee7cc95ff2e85248e97a1",
+    "wof:geomhash":"d47425ec76dacc4dcf0450a73f8f624a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     13.79944,
     45.56639000000001
 ],
-  "geometry": {"coordinates":[13.79944,45.56639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.79944,45.56639],"type":"Point"}
 }

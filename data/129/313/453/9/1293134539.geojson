@@ -64,7 +64,7 @@
         "wk:page":"Ruhna_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8f1d7ba39db2b5dc15354dd93827399b",
+    "wof:geomhash":"3737c60a5699a5e83da581b960439c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.29635,
     45.87224000000001
 ],
-  "geometry": {"coordinates":[15.29635,45.87224000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.29635,45.87224],"type":"Point"}
 }

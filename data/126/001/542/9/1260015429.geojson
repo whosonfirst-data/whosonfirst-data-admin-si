@@ -64,7 +64,7 @@
         "wk:page":"Orlaka"
     },
     "wof:country":"SI",
-    "wof:geomhash":"cee259aac52e29b85424d40ab4a27cb0",
+    "wof:geomhash":"f43f29c87ef41d5db9d62e5ae735c17e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.89,
     45.87889000000001
 ],
-  "geometry": {"coordinates":[14.89,45.87889000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.89,45.87889],"type":"Point"}
 }

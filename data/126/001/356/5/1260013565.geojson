@@ -64,7 +64,7 @@
         "wk:page":"Bukovje_v_Babni_Gori"
     },
     "wof:country":"SI",
-    "wof:geomhash":"dec2e0a5f19835daa7a340f42da67683",
+    "wof:geomhash":"e75366dbb1ad2764849c6a116ff5d126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.47278,
     46.17639000000001
 ],
-  "geometry": {"coordinates":[15.47278,46.17639000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.47278,46.17639],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Zgornje_Loke"
     },
     "wof:country":"SI",
-    "wof:geomhash":"165e3a9c5ecd6b25a5931ebeb63395e5",
+    "wof:geomhash":"2e06e7f259cd424c89b24466c1ecf1b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.78163,
     46.17234000000001
 ],
-  "geometry": {"coordinates":[14.78163,46.17234000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.78163,46.17234],"type":"Point"}
 }

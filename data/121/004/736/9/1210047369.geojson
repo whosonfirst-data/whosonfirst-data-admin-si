@@ -67,7 +67,7 @@
         "wk:page":"Orova_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c9cbcd9ad1a040a76f805e0a0392b73b",
+    "wof:geomhash":"a180e4ef6c7efbc593f3957154e2b7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.09234,
     46.27914000000001
 ],
-  "geometry": {"coordinates":[15.09234,46.27914000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.09234,46.27914],"type":"Point"}
 }

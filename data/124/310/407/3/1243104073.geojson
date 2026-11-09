@@ -64,7 +64,7 @@
         "wk:page":"Dov%C5%BEe"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f7651c83cf89762d4db6bd10f9d8ca17",
+    "wof:geomhash":"a173c554485ed2911ca7fda08f880699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.16611,
     46.46194000000001
 ],
-  "geometry": {"coordinates":[15.16611,46.46194000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.16611,46.46194],"type":"Point"}
 }

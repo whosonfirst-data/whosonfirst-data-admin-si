@@ -67,7 +67,7 @@
         "wk:page":"Osredek_pri_Zre%C4%8Dah"
     },
     "wof:country":"SI",
-    "wof:geomhash":"28736365939d49fe999475ce4b6928dc",
+    "wof:geomhash":"a92b02efba605c02eef89c03810d5604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.38193,
     46.36709000000001
 ],
-  "geometry": {"coordinates":[15.38193,46.36709000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.38193,46.36709],"type":"Point"}
 }

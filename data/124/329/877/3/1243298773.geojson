@@ -61,7 +61,7 @@
         "wk:page":"Dupeljne"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d4d902adfd6ab200eb1b0c823a5fc36c",
+    "wof:geomhash":"a364c1c622cb6c57f6bc98e42b46293c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.6746,
     46.19029000000001
 ],
-  "geometry": {"coordinates":[14.6746,46.19029000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.6746,46.19029],"type":"Point"}
 }

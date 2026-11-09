@@ -63,7 +63,7 @@
         "wk:page":"Pugled_pri_Starem_Logu"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c4e0afda7fc1e3cfcced4304b6013030",
+    "wof:geomhash":"206c9bbe87ce4b3037da99630299e7b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.93172,
     45.70359000000001
 ],
-  "geometry": {"coordinates":[14.93172,45.70359000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.93172,45.70359],"type":"Point"}
 }

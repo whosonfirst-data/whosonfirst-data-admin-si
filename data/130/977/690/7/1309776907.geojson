@@ -61,7 +61,7 @@
         "wk:page":"Cerkljanski_Vrh"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d731233a248ef1d08cc0099e57095a9d",
+    "wof:geomhash":"11986ff6c65251ce82904036c378fea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.0,
     46.1
 ],
-  "geometry": {"coordinates":[14.0,46.1],"type":"Point"}
+  "geometry": {"coordinates":[14,46.1],"type":"Point"}
 }

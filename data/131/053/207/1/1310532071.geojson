@@ -64,7 +64,7 @@
         "wk:page":"Glogovica%2C_Ivan%C4%8Dna_Gorica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c0db113f8bebf541278440c5ea5cef4f",
+    "wof:geomhash":"8119267ae07cdae5f1d913500b9c13c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.83504,
     45.94179000000001
 ],
-  "geometry": {"coordinates":[14.83504,45.94179000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.83504,45.94179],"type":"Point"}
 }

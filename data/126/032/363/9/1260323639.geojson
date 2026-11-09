@@ -64,7 +64,7 @@
         "wk:page":"Gora%2C_Kr%C5%A1ko"
     },
     "wof:country":"SI",
-    "wof:geomhash":"04aa0004f4c9f94bb0a1163d41da8483",
+    "wof:geomhash":"744fcedefe04cf434606cc50f373327a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.45063,
     45.97049000000001
 ],
-  "geometry": {"coordinates":[15.45063,45.97049000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.45063,45.97049],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"O%C5%BEbalt"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d9a117f94656c420a6ffed933eab0bb9",
+    "wof:geomhash":"e5971a4c3b105dc36f7ba422a652e32a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     15.39889,
     46.58694000000001
 ],
-  "geometry": {"coordinates":[15.39889,46.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.39889,46.58694],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Latkova_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f2df398d5e495d384e32104b7df7e00b",
+    "wof:geomhash":"2042618dab48f9a5050baacfcb81de65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.09333,
     46.25389000000001
 ],
-  "geometry": {"coordinates":[15.09333,46.25389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.09333,46.25389],"type":"Point"}
 }

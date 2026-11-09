@@ -61,7 +61,7 @@
         "wk:page":"Jelenik"
     },
     "wof:country":"SI",
-    "wof:geomhash":"11909e518f507188bb1256459c9e0b44",
+    "wof:geomhash":"df1b5377e3b4cde7ce84af66315c2c5c",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -86,5 +86,5 @@
     15.36839,
     45.94504000000001
 ],
-  "geometry": {"coordinates":[15.36839,45.94504000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.36839,45.94504],"type":"Point"}
 }

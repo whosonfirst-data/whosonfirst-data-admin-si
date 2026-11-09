@@ -64,7 +64,7 @@
         "wk:page":"Male_Grahov%C5%A1e"
     },
     "wof:country":"SI",
-    "wof:geomhash":"101901f2743735020082555eb0ee442c",
+    "wof:geomhash":"9436bc604dd4ce39083f5941fef5340b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.3037,
     46.13209000000001
 ],
-  "geometry": {"coordinates":[15.3037,46.13209000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.3037,46.13209],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Jer%C4%8Din"
     },
     "wof:country":"SI",
-    "wof:geomhash":"e7d206ef38f79ba25b8b1c7cbe530167",
+    "wof:geomhash":"7302067d054c77c0269d73b8569c0890",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -86,5 +86,5 @@
     15.62065,
     46.19300000000001
 ],
-  "geometry": {"coordinates":[15.62065,46.19300000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.62065,46.193],"type":"Point"}
 }

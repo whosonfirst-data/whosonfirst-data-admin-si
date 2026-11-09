@@ -64,7 +64,7 @@
         "wk:page":"Laze%2C_Gorenja_Vas%E2%80%93Poljane"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4fa5e745508f81320dfd3a228b21cbbe",
+    "wof:geomhash":"41113408b20f6994a7479a8dfc7c59b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.07619,
     46.15049000000001
 ],
-  "geometry": {"coordinates":[14.07619,46.15049000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.07619,46.15049],"type":"Point"}
 }

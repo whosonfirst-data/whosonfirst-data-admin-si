@@ -67,7 +67,7 @@
         "wk:page":"Hru%C5%A1evlje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"3e65b7a80d416a3925b0be22d44011de",
+    "wof:geomhash":"39b2fc1f480c6e76cb55e4dda1935f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     13.50456,
     46.01799000000001
 ],
-  "geometry": {"coordinates":[13.50456,46.01799000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.50456,46.01799],"type":"Point"}
 }

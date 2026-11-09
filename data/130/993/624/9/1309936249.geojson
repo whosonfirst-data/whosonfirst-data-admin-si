@@ -55,7 +55,7 @@
         "wk:page":"Svetinje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"5a8f2cb471e6631e98ea8ccf627474ff",
+    "wof:geomhash":"68e0107eb6f106e5b95efeead7ce9204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     16.1718,
     46.46599000000001
 ],
-  "geometry": {"coordinates":[16.1718,46.46599000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.1718,46.46599],"type":"Point"}
 }

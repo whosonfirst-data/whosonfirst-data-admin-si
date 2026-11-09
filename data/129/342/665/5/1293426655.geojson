@@ -64,7 +64,7 @@
         "wk:page":"%C5%A0entpavel_na_Dolenjskem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2a8c27dbc6be65a03ca0b081516277db",
+    "wof:geomhash":"373d3dd631afab97d2350f68a892b782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.85928,
     45.95464000000001
 ],
-  "geometry": {"coordinates":[14.85928,45.95464000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.85928,45.95464],"type":"Point"}
 }

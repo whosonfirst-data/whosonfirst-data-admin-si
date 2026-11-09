@@ -67,7 +67,7 @@
         "wk:page":"Li%C4%8Denca"
     },
     "wof:country":"SI",
-    "wof:geomhash":"5a6a293c993633f09e2a3456a44d19c9",
+    "wof:geomhash":"0e9925c47056917f163b804a54a813df",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -92,5 +92,5 @@
     15.52889,
     46.34444000000001
 ],
-  "geometry": {"coordinates":[15.52889,46.34444000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.52889,46.34444],"type":"Point"}
 }

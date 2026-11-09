@@ -64,7 +64,7 @@
         "wk:page":"Gregovce"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4a58a16c36264768e16d7118bf968b8b",
+    "wof:geomhash":"2dff278e698d9296102235d70d2ae2f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.70044,
     45.99319000000001
 ],
-  "geometry": {"coordinates":[15.70044,45.99319000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.70044,45.99319],"type":"Point"}
 }

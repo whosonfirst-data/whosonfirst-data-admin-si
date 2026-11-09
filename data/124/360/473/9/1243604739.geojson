@@ -67,7 +67,7 @@
         "wk:page":"Zbigovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6f809f5128ad293750b9c2ee718e5ca8",
+    "wof:geomhash":"d4d05bfd46daf015bca007e573e5024e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.9678,
     46.64684000000001
 ],
-  "geometry": {"coordinates":[15.9678,46.64684000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.9678,46.64684],"type":"Point"}
 }

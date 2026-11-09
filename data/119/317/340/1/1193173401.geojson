@@ -64,7 +64,7 @@
         "wk:page":"Krtina%2C_Dom%C5%BEale"
     },
     "wof:country":"SI",
-    "wof:geomhash":"47ab975230cea224ca2efda32fc42eba",
+    "wof:geomhash":"18adb4f80d7a6f4ccc14bc7353e6a3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.65228,
     46.14834000000001
 ],
-  "geometry": {"coordinates":[14.65228,46.14834000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.65228,46.14834],"type":"Point"}
 }

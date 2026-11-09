@@ -64,7 +64,7 @@
         "wk:page":"Zgornji_Velovlek"
     },
     "wof:country":"SI",
-    "wof:geomhash":"64cc62867bd2925368553f5c75c82a7f",
+    "wof:geomhash":"c331bb94f0ddedd667cb1a9e9eb5f553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.90473,
     46.47114000000001
 ],
-  "geometry": {"coordinates":[15.90473,46.47114000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.90473,46.47114],"type":"Point"}
 }

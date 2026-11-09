@@ -61,7 +61,7 @@
         "wk:page":"Podlipovica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"100adc0c8f338af7be6aff21c7438294",
+    "wof:geomhash":"175d3dddf7182149c36aa45dfa0fe6b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.91408,
     46.15622000000001
 ],
-  "geometry": {"coordinates":[14.91408,46.15622000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.91408,46.15622],"type":"Point"}
 }

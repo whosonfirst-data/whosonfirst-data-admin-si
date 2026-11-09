@@ -61,7 +61,7 @@
         "wk:page":"Slapnik%2C_Brda"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4a119bd8417b918b1cdc3dd7badd6d0c",
+    "wof:geomhash":"adf2ec8186267c955a1999ac6d0e093b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     13.5581,
     46.04577000000001
 ],
-  "geometry": {"coordinates":[13.5581,46.04577000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.5581,46.04577],"type":"Point"}
 }

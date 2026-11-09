@@ -58,7 +58,7 @@
         "wk:page":"Bane%2C_Velike_La%C5%A1%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6d14d6b9670d7e2642ec1e4b7ecafd8c",
+    "wof:geomhash":"f436669b0c350c6b5b0792c9188235f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     14.56633,
     45.82194000000001
 ],
-  "geometry": {"coordinates":[14.56633,45.82194000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.56633,45.82194],"type":"Point"}
 }

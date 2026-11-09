@@ -64,7 +64,7 @@
         "wk:page":"Gori%C4%8Dak"
     },
     "wof:country":"SI",
-    "wof:geomhash":"10e141e2fa09159339ed45a4dd72897d",
+    "wof:geomhash":"e92283e19f9a5cdd852d2415f728e0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     16.06523,
     46.36539000000001
 ],
-  "geometry": {"coordinates":[16.06523,46.36539000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.06523,46.36539],"type":"Point"}
 }

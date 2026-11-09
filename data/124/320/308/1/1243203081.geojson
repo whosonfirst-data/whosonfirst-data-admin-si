@@ -64,7 +64,7 @@
         "wk:page":"Srakovlje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"97060671d5b8fc08ecc3adc5aebe65bc",
+    "wof:geomhash":"7454f331bb214e95c5311dbfde4b71f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.3596,
     46.28599000000001
 ],
-  "geometry": {"coordinates":[14.3596,46.28599000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.3596,46.28599],"type":"Point"}
 }

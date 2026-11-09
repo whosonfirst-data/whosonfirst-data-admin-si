@@ -67,7 +67,7 @@
         "wk:page":"Goste%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"37a08315443d1af751411e3b22496a09",
+    "wof:geomhash":"2e866fd83c8be4f073d62799510585d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.34147,
     46.14834000000001
 ],
-  "geometry": {"coordinates":[14.34147,46.14834000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.34147,46.14834],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Polhovica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ed229757adcf09f8abe227943c26a3f8",
+    "wof:geomhash":"2f5d4a21bb1acca3fe26f8f69c6a4181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.26794,
     45.84444000000001
 ],
-  "geometry": {"coordinates":[15.26794,45.84444000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.26794,45.84444],"type":"Point"}
 }

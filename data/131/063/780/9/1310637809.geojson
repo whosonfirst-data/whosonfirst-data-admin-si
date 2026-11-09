@@ -64,7 +64,7 @@
         "wk:page":"Kobdilj"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4e288045616619b169a3d627b0f7aeb3",
+    "wof:geomhash":"314d667016b8d239690e7766a7278879",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.85306,
     45.81639000000001
 ],
-  "geometry": {"coordinates":[13.85306,45.81639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.85306,45.81639],"type":"Point"}
 }

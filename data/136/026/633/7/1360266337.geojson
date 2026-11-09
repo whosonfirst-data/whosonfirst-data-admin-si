@@ -70,7 +70,7 @@
         "wk:page":"Tremerje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"aea4e163c10ed3abd1119e549daa03b4",
+    "wof:geomhash":"311cad8d768194c4b4017f5b35ad94ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.22539,
     46.19817000000001
 ],
-  "geometry": {"coordinates":[15.22539,46.19817000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.22539,46.19817],"type":"Point"}
 }

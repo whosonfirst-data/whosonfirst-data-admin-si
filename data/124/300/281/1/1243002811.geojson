@@ -67,7 +67,7 @@
         "wk:page":"Brecljevo"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a77a4d5846c8ad01f8cb686818024b8a",
+    "wof:geomhash":"12d55478248d57a3ba594648cc767ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.5298,
     46.21769000000001
 ],
-  "geometry": {"coordinates":[15.5298,46.21769000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.5298,46.21769],"type":"Point"}
 }

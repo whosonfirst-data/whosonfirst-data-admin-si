@@ -79,7 +79,7 @@
         "wk:page":"Ve%C5%A1%C4%8Dica%2C_Murska_Sobota"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fcc5579ab7a2508cc240242ee161edc4",
+    "wof:geomhash":"91b1748b764150482671f2edd79b2953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.13332999999999,
     46.66667
 ],
-  "geometry": {"coordinates":[16.13332999999999,46.66667],"type":"Point"}
+  "geometry": {"coordinates":[16.13333,46.66667],"type":"Point"}
 }

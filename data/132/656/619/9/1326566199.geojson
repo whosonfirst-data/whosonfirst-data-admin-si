@@ -75,7 +75,7 @@
         "wk:page":"Ocinje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"23891c5ca2880bcd304fe00bac732bbc",
+    "wof:geomhash":"4e60d0582955412e7361542cdb8b249c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     15.99779,
     46.82389000000001
 ],
-  "geometry": {"coordinates":[15.99779,46.82389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.99779,46.82389],"type":"Point"}
 }

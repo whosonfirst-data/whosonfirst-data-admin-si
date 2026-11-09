@@ -67,7 +67,7 @@
         "wk:page":"Kaj%C5%BEar"
     },
     "wof:country":"SI",
-    "wof:geomhash":"39d8f96c45c043308463bf5fde9f9642",
+    "wof:geomhash":"ee7f406c6587420595124ca8b9381a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.21977,
     46.45829000000001
 ],
-  "geometry": {"coordinates":[16.21977,46.45829000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.21977,46.45829],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Kamovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"50b0a139f93e8f3b8c50d87538d0001f",
+    "wof:geomhash":"cabb60536c30a45745c0149ed307b443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.38361,
     46.62889000000001
 ],
-  "geometry": {"coordinates":[16.38361,46.62889000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.38361,46.62889],"type":"Point"}
 }

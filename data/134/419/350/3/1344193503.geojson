@@ -64,7 +64,7 @@
         "wk:page":"Betonovo"
     },
     "wof:country":"SI",
-    "wof:geomhash":"cd90b1984378e54883a90a664487bf6f",
+    "wof:geomhash":"6695cdd503288b4aa703ab42d2894d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.57762,
     45.74659000000001
 ],
-  "geometry": {"coordinates":[14.57762,45.74659000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.57762,45.74659],"type":"Point"}
 }

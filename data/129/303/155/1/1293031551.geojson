@@ -67,7 +67,7 @@
         "wk:page":"Lasigovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"3928148ca04029d4283d0fcc96c31e55",
+    "wof:geomhash":"ef64cfc8ed708316813e88f9584c86de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.02057000000001,
     46.45114
 ],
-  "geometry": {"coordinates":[16.02057000000001,46.45114],"type":"Point"}
+  "geometry": {"coordinates":[16.02057,46.45114],"type":"Point"}
 }

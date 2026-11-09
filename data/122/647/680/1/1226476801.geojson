@@ -64,7 +64,7 @@
         "wk:page":"Brdinje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"78ef145bd991e15231f22d6ea67dc408",
+    "wof:geomhash":"1eb3af179f265ee7a8557125e5fdb750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.0,
     46.53333
 ],
-  "geometry": {"coordinates":[15.0,46.53333],"type":"Point"}
+  "geometry": {"coordinates":[15,46.53333],"type":"Point"}
 }

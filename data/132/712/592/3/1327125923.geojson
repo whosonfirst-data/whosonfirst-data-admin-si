@@ -61,7 +61,7 @@
         "wk:page":"Brdice_pri_Neblem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"bfa9a4f6b5aa15dc0517a024f5ca54c9",
+    "wof:geomhash":"15f1c954876657c489f27240b2ec3d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     13.50796,
     46.00709000000001
 ],
-  "geometry": {"coordinates":[13.50796,46.00709000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.50796,46.00709],"type":"Point"}
 }

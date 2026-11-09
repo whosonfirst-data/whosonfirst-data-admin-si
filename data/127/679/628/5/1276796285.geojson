@@ -64,7 +64,7 @@
         "wk:page":"Stranje_pri_Dobrni%C4%8Du"
     },
     "wof:country":"SI",
-    "wof:geomhash":"885589c6703b595c1875066046d72601",
+    "wof:geomhash":"fa5dac18898c0c3f3e9011d8197b958d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.98466,
     45.88764000000001
 ],
-  "geometry": {"coordinates":[14.98466,45.88764000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.98466,45.88764],"type":"Point"}
 }

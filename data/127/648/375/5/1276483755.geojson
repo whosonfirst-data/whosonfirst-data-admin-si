@@ -67,7 +67,7 @@
         "wk:page":"Dobro_Polje%2C_Ilirska_Bistrica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"dbabfcb1c2e365179a48fed2f69b8220",
+    "wof:geomhash":"3b4b4b28cea9b8f08d9d7dbf876208b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.2175,
     45.56639000000001
 ],
-  "geometry": {"coordinates":[14.2175,45.56639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.2175,45.56639],"type":"Point"}
 }

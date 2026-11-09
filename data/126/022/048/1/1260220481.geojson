@@ -61,7 +61,7 @@
         "wk:page":"Ko%C5%A1ke_Poljane"
     },
     "wof:country":"SI",
-    "wof:geomhash":"2fa7f3170d85d42d3b184fad6ed3bc0d",
+    "wof:geomhash":"cdbfee3586eca18d1870f5a5f235d4e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.73824,
     46.04989000000001
 ],
-  "geometry": {"coordinates":[14.73824,46.04989000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.73824,46.04989],"type":"Point"}
 }

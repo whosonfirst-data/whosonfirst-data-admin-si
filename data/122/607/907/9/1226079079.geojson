@@ -67,7 +67,7 @@
         "wk:page":"Veliki_Kal%2C_Mirna_Pe%C4%8D"
     },
     "wof:country":"SI",
-    "wof:geomhash":"896b16fc122f66878bc3ee3c327518b2",
+    "wof:geomhash":"2276105cf80fe07d51ca30ff7fcd51b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.11165,
     45.86004000000001
 ],
-  "geometry": {"coordinates":[15.11165,45.86004000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11165,45.86004],"type":"Point"}
 }

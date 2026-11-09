@@ -61,7 +61,7 @@
         "wk:page":"Trnovec_pri_Slovenski_Bistrici"
     },
     "wof:country":"SI",
-    "wof:geomhash":"b92717d136a7953d45de82de5b8dcc86",
+    "wof:geomhash":"095de6dbfe25a83b0a2d80489aa98475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.65167,
     46.35639000000001
 ],
-  "geometry": {"coordinates":[15.65167,46.35639000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.65167,46.35639],"type":"Point"}
 }

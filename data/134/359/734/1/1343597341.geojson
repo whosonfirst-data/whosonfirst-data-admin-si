@@ -61,7 +61,7 @@
         "wk:page":"%C4%8Cago%C5%A1%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9193c883c0d8b26756316ab09ee06de9",
+    "wof:geomhash":"7cc885c1ed64f8353c70a6177b6baf26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.8699,
     45.97649000000001
 ],
-  "geometry": {"coordinates":[14.8699,45.97649000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.8699,45.97649],"type":"Point"}
 }

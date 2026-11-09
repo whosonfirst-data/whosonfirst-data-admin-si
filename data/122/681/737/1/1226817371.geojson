@@ -67,7 +67,7 @@
         "wk:page":"Prerad"
     },
     "wof:country":"SI",
-    "wof:geomhash":"b166b5862acccad7abae8a1da1627ac6",
+    "wof:geomhash":"e0476d62262a34a869561be566c4f8d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.01367999999999,
     46.44112
 ],
-  "geometry": {"coordinates":[16.01367999999999,46.44112],"type":"Point"}
+  "geometry": {"coordinates":[16.01368,46.44112],"type":"Point"}
 }

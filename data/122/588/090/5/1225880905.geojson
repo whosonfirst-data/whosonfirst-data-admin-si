@@ -64,7 +64,7 @@
         "wk:page":"Brezovska_Gora"
     },
     "wof:country":"SI",
-    "wof:geomhash":"019064f5a5ad9e8d808ae6dd5ee2536e",
+    "wof:geomhash":"56e61b96ca8b43460569e5d47543be07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.43099,
     45.94439000000001
 ],
-  "geometry": {"coordinates":[15.43099,45.94439000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.43099,45.94439],"type":"Point"}
 }

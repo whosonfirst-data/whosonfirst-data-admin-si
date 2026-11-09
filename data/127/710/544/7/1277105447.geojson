@@ -67,7 +67,7 @@
         "wk:page":"Dolenja_Nem%C5%A1ka_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"509a5667b390e1e828d0c698dc60b95c",
+    "wof:geomhash":"98c7a886747e0ac2d676b6caa0b3e763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.04264,
     45.90472000000001
 ],
-  "geometry": {"coordinates":[15.04264,45.90472000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.04264,45.90472],"type":"Point"}
 }

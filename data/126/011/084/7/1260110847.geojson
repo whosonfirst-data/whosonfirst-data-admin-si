@@ -61,7 +61,7 @@
         "wk:page":"Zgornja_Nova_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ba6c50720aadc9057bf5c04055d79a2c",
+    "wof:geomhash":"061a04a468c321fe323ae1f626119803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.53736,
     46.42319000000001
 ],
-  "geometry": {"coordinates":[15.53736,46.42319000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.53736,46.42319],"type":"Point"}
 }

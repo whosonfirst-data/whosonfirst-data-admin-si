@@ -67,7 +67,7 @@
         "wk:page":"Ba%C4%8D_pri_Materiji"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c096173605c18aa88e92ae4434982ea5",
+    "wof:geomhash":"d6b0c1467bfab99bf1535ad38e70e9de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.0,
     45.58333
 ],
-  "geometry": {"coordinates":[14.0,45.58333],"type":"Point"}
+  "geometry": {"coordinates":[14,45.58333],"type":"Point"}
 }

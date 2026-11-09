@@ -67,7 +67,7 @@
         "wk:page":"Dravski_Dvor"
     },
     "wof:country":"SI",
-    "wof:geomhash":"32641f9efbdff05074e17c08d213bf7a",
+    "wof:geomhash":"8e8093004130522901e49b5af3ac9ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.71639,
     46.46722000000001
 ],
-  "geometry": {"coordinates":[15.71639,46.46722000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.71639,46.46722],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"%C4%8Cilpah"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a921ae2c82a30fa88be7570c7fe3f7bc",
+    "wof:geomhash":"bf4b583ca207561872c66e44c432f683",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.13221,
     45.90179000000001
 ],
-  "geometry": {"coordinates":[15.13221,45.90179000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.13221,45.90179],"type":"Point"}
 }

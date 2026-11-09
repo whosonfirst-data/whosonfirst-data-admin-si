@@ -64,7 +64,7 @@
         "wk:page":"Vinarje%2C_Slovenska_Bistrica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fe875cf72195e7705af87796cdd70f46",
+    "wof:geomhash":"9453558e6686ed394ea999703656f930",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.49953,
     46.37569000000001
 ],
-  "geometry": {"coordinates":[15.49953,46.37569000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.49953,46.37569],"type":"Point"}
 }

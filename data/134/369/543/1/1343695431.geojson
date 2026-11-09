@@ -70,7 +70,7 @@
         "wk:page":"Petrovo_Brdo"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a397a0bab585c9069a6fc6d1d17d414b",
+    "wof:geomhash":"e9db7ea013460da95ac20cbada79720f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.0,
     46.21667
 ],
-  "geometry": {"coordinates":[14.0,46.21667],"type":"Point"}
+  "geometry": {"coordinates":[14,46.21667],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Pijavice"
     },
     "wof:country":"SI",
-    "wof:geomhash":"44ddfef17e97fc6dd202c567d5085f6d",
+    "wof:geomhash":"9a7e5f6779329cf9b9c1dee3a3f9345d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.16282,
     45.96879000000001
 ],
-  "geometry": {"coordinates":[15.16282,45.96879000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.16282,45.96879],"type":"Point"}
 }

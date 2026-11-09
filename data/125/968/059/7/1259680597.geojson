@@ -70,7 +70,7 @@
         "wk:page":"Fojana"
     },
     "wof:country":"SI",
-    "wof:geomhash":"7787590e86a2e34d55fa29743e92ecc5",
+    "wof:geomhash":"e76faaf4366ec604a4df1db0cd4ae146",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     13.50083,
     45.99639000000001
 ],
-  "geometry": {"coordinates":[13.50083,45.99639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.50083,45.99639],"type":"Point"}
 }

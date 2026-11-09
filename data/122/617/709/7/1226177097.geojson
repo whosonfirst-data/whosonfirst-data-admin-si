@@ -67,7 +67,7 @@
         "wk:page":"Borjana"
     },
     "wof:country":"SI",
-    "wof:geomhash":"3d2a298c07c148028cc381530598c145",
+    "wof:geomhash":"0efde521f5fd92398bfed3ea04b3071e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     13.4775,
     46.25917000000001
 ],
-  "geometry": {"coordinates":[13.4775,46.25917000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.4775,46.25917],"type":"Point"}
 }

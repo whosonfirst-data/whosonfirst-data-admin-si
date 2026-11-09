@@ -70,7 +70,7 @@
         "wk:page":"Velika_Pristava"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fe76b6f583de0d2692695ec352402130",
+    "wof:geomhash":"d9227b430123427dc367128949437c33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.18528,
     45.65694000000001
 ],
-  "geometry": {"coordinates":[14.18528,45.65694000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.18528,45.65694],"type":"Point"}
 }

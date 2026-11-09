@@ -64,7 +64,7 @@
         "wk:page":"Zazid"
     },
     "wof:country":"SI",
-    "wof:geomhash":"45fc1157d06cb90a6e08b0ff20475ce9",
+    "wof:geomhash":"201cabf92d09ab8de4287eb73825c4b3",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -89,5 +89,5 @@
     13.93139,
     45.50194000000001
 ],
-  "geometry": {"coordinates":[13.93139,45.50194000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.93139,45.50194],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Ostro%C5%BEno_pri_Lo%C4%8Dah"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8b5fe3d1ff18134b2131a2941a4a1e2d",
+    "wof:geomhash":"4cfcea37987c4a09a3cb468093cf3dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.48324,
     46.28404000000001
 ],
-  "geometry": {"coordinates":[15.48324,46.28404000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.48324,46.28404],"type":"Point"}
 }

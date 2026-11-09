@@ -70,7 +70,7 @@
         "wk:page":"Poden"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d2912fb422c7e8840d2752c705a9016b",
+    "wof:geomhash":"7ac2a440d2c343c26fe501bf31d2f12b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.90423,
     45.49659000000001
 ],
-  "geometry": {"coordinates":[14.90423,45.49659000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.90423,45.49659],"type":"Point"}
 }

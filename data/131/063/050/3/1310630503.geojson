@@ -73,7 +73,7 @@
         "wk:page":"Perto%C4%8Da"
     },
     "wof:country":"SI",
-    "wof:geomhash":"5d1cef8146ddeb2a5d724e6d20ad00c1",
+    "wof:geomhash":"2d6642be451b6022e9ea5998419c2698",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.02667000000001,
     46.77944
 ],
-  "geometry": {"coordinates":[16.02667000000001,46.77944],"type":"Point"}
+  "geometry": {"coordinates":[16.02667,46.77944],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Vrhovlje_pri_Kojskem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"e84d087671d094ef36e5b8cbc47651a1",
+    "wof:geomhash":"885ad2d6862e211a4fadc5dd0aaf753d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     13.57528,
     46.02444000000001
 ],
-  "geometry": {"coordinates":[13.57528,46.02444000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.57528,46.02444],"type":"Point"}
 }

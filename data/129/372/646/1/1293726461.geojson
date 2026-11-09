@@ -67,7 +67,7 @@
         "wk:page":"Vinarje%2C_Maribor"
     },
     "wof:country":"SI",
-    "wof:geomhash":"68a304acbea0037614b20d9eff23b8be",
+    "wof:geomhash":"ab9b9e3a84ae4ed91fd5ecfc2099c03e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.63788,
     46.58244000000001
 ],
-  "geometry": {"coordinates":[15.63788,46.58244000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.63788,46.58244],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Gorenji_Potok"
     },
     "wof:country":"SI",
-    "wof:geomhash":"5cd5f881f97b5cfd081f7a062ab31f7d",
+    "wof:geomhash":"75c859bb09f3432e8d953f1a1f90112b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.87242,
     45.52314000000001
 ],
-  "geometry": {"coordinates":[14.87242,45.52314000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.87242,45.52314],"type":"Point"}
 }

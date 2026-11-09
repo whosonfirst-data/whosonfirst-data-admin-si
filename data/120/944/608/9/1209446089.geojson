@@ -58,7 +58,7 @@
         "wk:page":"Bole%C4%8Dka_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"eb686a5da607ad82cf1d79024feb3832",
+    "wof:geomhash":"650f18e768378fb9be7693290c028e6d",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -83,5 +83,5 @@
     15.80332,
     46.35104000000001
 ],
-  "geometry": {"coordinates":[15.80332,46.35104000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.80332,46.35104],"type":"Point"}
 }

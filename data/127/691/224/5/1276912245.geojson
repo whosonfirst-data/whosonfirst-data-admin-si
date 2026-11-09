@@ -67,7 +67,7 @@
         "wk:page":"%C5%A0utna%2C_Kr%C5%A1ko"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ccf9ddd7241d92b714eee4099573dc69",
+    "wof:geomhash":"01b7dca5cd26970fb641feec2052c9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.49442,
     45.85704000000001
 ],
-  "geometry": {"coordinates":[15.49442,45.85704000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.49442,45.85704],"type":"Point"}
 }

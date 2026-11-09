@@ -61,7 +61,7 @@
         "wk:page":"Svinjsko"
     },
     "wof:country":"SI",
-    "wof:geomhash":"40a66d26fd1603cb20eba48b2a3e3997",
+    "wof:geomhash":"7eb56edbc82a08f45cf714c05b534990",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.11482,
     46.01224000000001
 ],
-  "geometry": {"coordinates":[15.11482,46.01224000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11482,46.01224],"type":"Point"}
 }

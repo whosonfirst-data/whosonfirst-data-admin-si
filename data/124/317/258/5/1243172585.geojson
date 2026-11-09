@@ -76,7 +76,7 @@
         "wk:page":"Studor_v_Bohinju"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c3d378da772070fc1cfe6859bd4921f5",
+    "wof:geomhash":"3ba4dd5d3daba4955b5820525db3235c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     13.8975,
     46.29389000000001
 ],
-  "geometry": {"coordinates":[13.8975,46.29389000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.8975,46.29389],"type":"Point"}
 }

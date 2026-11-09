@@ -64,7 +64,7 @@
         "wk:page":"Dobravlje%2C_Se%C5%BEana"
     },
     "wof:country":"SI",
-    "wof:geomhash":"16a34132b1ca3f970c5a34cdcc0ea3ca",
+    "wof:geomhash":"dd55f54f2509dbdf7bfdf3b9488dc6f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.88222,
     45.76694000000001
 ],
-  "geometry": {"coordinates":[13.88222,45.76694000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.88222,45.76694],"type":"Point"}
 }

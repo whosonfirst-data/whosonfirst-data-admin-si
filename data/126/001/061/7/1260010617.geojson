@@ -64,7 +64,7 @@
         "wk:page":"Trotkova"
     },
     "wof:country":"SI",
-    "wof:geomhash":"1c62d3037e9c8c22f9e4964c309cdd6e",
+    "wof:geomhash":"4ad016cd4f8c4f973bfeb6fafa21293d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.90366,
     46.59954000000001
 ],
-  "geometry": {"coordinates":[15.90366,46.59954000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.90366,46.59954],"type":"Point"}
 }

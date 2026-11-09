@@ -61,7 +61,7 @@
         "wk:page":"Pristava_nad_Sti%C4%8Dno"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8d9badd1a39d3ea97942a8118be92906",
+    "wof:geomhash":"c0c5a6c95cd7dfc14f07f91c8c1d5938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.8245,
     45.98869000000001
 ],
-  "geometry": {"coordinates":[14.8245,45.98869000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.8245,45.98869],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Zare%C4%8Dica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"de4ec5870f915df061dde4caf10e9d1c",
+    "wof:geomhash":"ebef157adf0284ef469b8ace4e790eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     14.22667,
     45.55889000000001
 ],
-  "geometry": {"coordinates":[14.22667,45.55889000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.22667,45.55889],"type":"Point"}
 }

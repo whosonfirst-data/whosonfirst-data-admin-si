@@ -61,7 +61,7 @@
         "wk:page":"Sevec"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f11f51377b5ccc3c10ed9b4b4bca8799",
+    "wof:geomhash":"79a66aafb441197fdb930b2f568a57a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.51867,
     46.35827000000001
 ],
-  "geometry": {"coordinates":[15.51867,46.35827000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.51867,46.35827],"type":"Point"}
 }

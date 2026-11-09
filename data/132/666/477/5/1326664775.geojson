@@ -64,7 +64,7 @@
         "wk:page":"Libelj"
     },
     "wof:country":"SI",
-    "wof:geomhash":"34a906f044c396d53ed2c97f55ddbfa7",
+    "wof:geomhash":"7d65e63bb67032b0681c441cd144c9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.44272,
     45.94589000000001
 ],
-  "geometry": {"coordinates":[15.44272,45.94589000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.44272,45.94589],"type":"Point"}
 }

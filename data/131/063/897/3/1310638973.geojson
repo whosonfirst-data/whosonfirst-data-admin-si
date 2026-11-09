@@ -76,7 +76,7 @@
         "wk:page":"Grgarske_Ravne"
     },
     "wof:country":"SI",
-    "wof:geomhash":"381e95f8482b3d201457cd087284162c",
+    "wof:geomhash":"d894ac34ecf38fd92f5c34624cf832ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     13.6725,
     46.03194000000001
 ],
-  "geometry": {"coordinates":[13.6725,46.03194000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.6725,46.03194],"type":"Point"}
 }

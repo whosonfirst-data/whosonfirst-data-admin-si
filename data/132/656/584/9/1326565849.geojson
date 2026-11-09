@@ -64,7 +64,7 @@
         "wk:page":"Dol_pri_%C5%A0marjeti"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6289b9fd6ba59581b6b08de6e0f55ff6",
+    "wof:geomhash":"198073c0e6c94cca45c2b6ff0baa172c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.22591,
     45.91614000000001
 ],
-  "geometry": {"coordinates":[15.22591,45.91614000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.22591,45.91614],"type":"Point"}
 }

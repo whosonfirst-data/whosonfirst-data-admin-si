@@ -67,7 +67,7 @@
         "wk:page":"Jevnica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a9b589cce91ef3f3fc7a7ec1f708ca72",
+    "wof:geomhash":"de602aafa97212ad0feed8df54d952e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.72948,
     46.07389000000001
 ],
-  "geometry": {"coordinates":[14.72948,46.07389000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.72948,46.07389],"type":"Point"}
 }

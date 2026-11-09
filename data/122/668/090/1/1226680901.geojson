@@ -73,7 +73,7 @@
         "wk:page":"Genterovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"30d33f36bde4ed8685ef2a20a9333bd3",
+    "wof:geomhash":"6272f6eadcf5dc68772af43ba99b009e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.40417,
     46.62139000000001
 ],
-  "geometry": {"coordinates":[16.40417,46.62139000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.40417,46.62139],"type":"Point"}
 }

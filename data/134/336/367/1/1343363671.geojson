@@ -67,7 +67,7 @@
         "wk:page":"Pako"
     },
     "wof:country":"SI",
-    "wof:geomhash":"bd5ac0e94c078c5076f3c7763f3633d4",
+    "wof:geomhash":"dfe1383e316547d2c349de8e75a89249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.36778,
     45.93944000000001
 ],
-  "geometry": {"coordinates":[14.36778,45.93944000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.36778,45.93944],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Sir%C4%8Di"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6a81bb1459e7c248e8f849035093b04e",
+    "wof:geomhash":"748da4a3d39714634b8f64b5c4002c10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     13.84674,
     45.46722000000001
 ],
-  "geometry": {"coordinates":[13.84674,45.46722000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.84674,45.46722],"type":"Point"}
 }

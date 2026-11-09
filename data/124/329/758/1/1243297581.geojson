@@ -61,7 +61,7 @@
         "wk:page":"Mrtovec"
     },
     "wof:country":"SI",
-    "wof:geomhash":"7bf84c0aedd2e215073c625599aecd3d",
+    "wof:geomhash":"23698c52f9a4bd36190940d4af765a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.24956,
     46.02999000000001
 ],
-  "geometry": {"coordinates":[15.24956,46.02999000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.24956,46.02999],"type":"Point"}
 }

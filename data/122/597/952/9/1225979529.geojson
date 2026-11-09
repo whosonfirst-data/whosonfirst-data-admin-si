@@ -70,7 +70,7 @@
         "wk:page":"Breg_ob_Savi"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fb95bc3fd8c1dd4f5b6fcfdf302cd467",
+    "wof:geomhash":"13bf083f9df2f617e0f1c8e54b127626",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.38242,
     46.20614000000001
 ],
-  "geometry": {"coordinates":[14.38242,46.20614000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.38242,46.20614],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Zavrta%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"87032342984ab48e71c201910aea7d92",
+    "wof:geomhash":"285e10f5542f991f7e3ba6e67a369a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.75621,
     45.92984000000001
 ],
-  "geometry": {"coordinates":[14.75621,45.92984000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.75621,45.92984],"type":"Point"}
 }

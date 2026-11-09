@@ -64,7 +64,7 @@
         "wk:page":"Jelovec%2C_Sodra%C5%BEica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6424b6be1b4b41db49b36f9207e2e0dd",
+    "wof:geomhash":"97f9f0477da3c9fb0090ef104ac8fd14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.61381,
     45.76609000000001
 ],
-  "geometry": {"coordinates":[14.61381,45.76609000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.61381,45.76609],"type":"Point"}
 }

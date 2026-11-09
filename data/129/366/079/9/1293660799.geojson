@@ -64,7 +64,7 @@
         "wk:page":"Mihelja_Vas"
     },
     "wof:country":"SI",
-    "wof:geomhash":"7e8823fb674b0b51a85ba9c8a1a1e46d",
+    "wof:geomhash":"f8827797f1061a185de4b477b51678d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.18389,
     45.61669000000001
 ],
-  "geometry": {"coordinates":[15.18389,45.61669000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.18389,45.61669],"type":"Point"}
 }

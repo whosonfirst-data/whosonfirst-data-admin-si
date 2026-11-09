@@ -73,7 +73,7 @@
         "wk:page":"Lendavske_Gorice"
     },
     "wof:country":"SI",
-    "wof:geomhash":"18a702d9cf952e6cd6e65b9294a5461e",
+    "wof:geomhash":"d42e23a82bb1807e2f9dad4909cd49b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.4673,
     46.56209000000001
 ],
-  "geometry": {"coordinates":[16.4673,46.56209000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.4673,46.56209],"type":"Point"}
 }

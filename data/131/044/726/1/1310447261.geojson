@@ -61,7 +61,7 @@
         "wk:page":"Udje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6faa520d70093a8b03b415e32d2f668c",
+    "wof:geomhash":"735f90fb42e98af097f495347d111a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.60528,
     45.92639000000001
 ],
-  "geometry": {"coordinates":[14.60528,45.92639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.60528,45.92639],"type":"Point"}
 }

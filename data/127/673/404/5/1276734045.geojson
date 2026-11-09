@@ -64,7 +64,7 @@
         "wk:page":"Mo%C4%8Dile%2C_%C4%8Crnomelj"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4af7f8539430757ce3abfca987216bc7",
+    "wof:geomhash":"a434abaf8b5817bf5c0fdee589abb694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.10752,
     45.50089000000001
 ],
-  "geometry": {"coordinates":[15.10752,45.50089000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.10752,45.50089],"type":"Point"}
 }

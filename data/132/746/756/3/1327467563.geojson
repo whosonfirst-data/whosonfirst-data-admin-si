@@ -64,7 +64,7 @@
         "wk:page":"Knape"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6b2095889df91ed31a317938e7bb0d78",
+    "wof:geomhash":"6164ea6484eb309f9b2202956dfc4e09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.25085,
     46.21834000000001
 ],
-  "geometry": {"coordinates":[14.25085,46.21834000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.25085,46.21834],"type":"Point"}
 }

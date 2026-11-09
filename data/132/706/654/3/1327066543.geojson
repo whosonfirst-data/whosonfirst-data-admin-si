@@ -64,7 +64,7 @@
         "wk:page":"Nem%C5%A1ka_Vas%2C_Ribnica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c2f9f7760acea46a0a29bc76bff7251d",
+    "wof:geomhash":"0b0a8b078f235d14936c08ff5005e5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.74528,
     45.71722000000001
 ],
-  "geometry": {"coordinates":[14.74528,45.71722000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.74528,45.71722],"type":"Point"}
 }

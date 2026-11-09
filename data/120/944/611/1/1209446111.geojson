@@ -58,7 +58,7 @@
         "wk:page":"Zlatenek"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8845896115ffc83e6d07fa39092ea213",
+    "wof:geomhash":"67650ca73d2dbfbe70d5afb83c48e6a1",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -83,5 +83,5 @@
     14.79682,
     46.18859000000001
 ],
-  "geometry": {"coordinates":[14.79682,46.18859000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.79682,46.18859],"type":"Point"}
 }

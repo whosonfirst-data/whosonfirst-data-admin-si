@@ -67,7 +67,7 @@
         "wk:page":"Jel%C5%A1evnik"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8ca2c9d138c1949ca506ccd752c0fc74",
+    "wof:geomhash":"e52676c785598660fc039e8dc1ee706b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.15456,
     45.57194000000001
 ],
-  "geometry": {"coordinates":[15.15456,45.57194000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.15456,45.57194],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Labinje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"eb2f9d6d4ad42d8882c12b164edf6dba",
+    "wof:geomhash":"ee31a75f2af2c935c18e234bf9dc8fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.0,
     46.15
 ],
-  "geometry": {"coordinates":[14.0,46.15],"type":"Point"}
+  "geometry": {"coordinates":[14,46.15],"type":"Point"}
 }

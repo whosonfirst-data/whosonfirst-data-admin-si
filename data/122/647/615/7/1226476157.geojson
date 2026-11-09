@@ -64,7 +64,7 @@
         "wk:page":"Bistrica_ob_Dravi"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8063a68b9293d4e3475ba80951a32471",
+    "wof:geomhash":"aada54f81e5bb2c8fcd789d27513569d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.54855,
     46.55419000000001
 ],
-  "geometry": {"coordinates":[15.54855,46.55419000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.54855,46.55419],"type":"Point"}
 }

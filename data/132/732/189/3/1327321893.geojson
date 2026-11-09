@@ -79,7 +79,7 @@
         "wk:page":"Gorica_pri_%C5%A0martnem"
     },
     "wof:country":"SI",
-    "wof:geomhash":"41c47ec521b938e94c93684c705aeba6",
+    "wof:geomhash":"0849deaba2612ef9bb552fc035c15a46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     15.23083,
     46.27444000000001
 ],
-  "geometry": {"coordinates":[15.23083,46.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.23083,46.27444],"type":"Point"}
 }

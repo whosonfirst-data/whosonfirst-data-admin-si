@@ -67,7 +67,7 @@
         "wk:page":"Sve%C4%8Dina"
     },
     "wof:country":"SI",
-    "wof:geomhash":"3176f3a28f0d3f93b0d8eae4e4fdc4a6",
+    "wof:geomhash":"336fca59173ab414ff2703497f787ffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.58861,
     46.66889000000001
 ],
-  "geometry": {"coordinates":[15.58861,46.66889000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.58861,46.66889],"type":"Point"}
 }

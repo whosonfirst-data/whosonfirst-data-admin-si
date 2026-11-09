@@ -67,7 +67,7 @@
         "wk:page":"Dole%2C_Idrija"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6374a6be36b355a4021eba73ecec3bf4",
+    "wof:geomhash":"bcd24fd34a0746f42b129a524a9140c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.10611,
     45.98139000000001
 ],
-  "geometry": {"coordinates":[14.10611,45.98139000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.10611,45.98139],"type":"Point"}
 }

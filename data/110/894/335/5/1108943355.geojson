@@ -55,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"SI",
     "wof:created":1491363684,
-    "wof:geomhash":"69e65361fe73a8ab24d89c09806a3438",
+    "wof:geomhash":"1fa6189a5c939c37897f2d94e6a41208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     14.72031761816765,
     46.05157682051601
 ],
-  "geometry": {"coordinates":[14.72031761816765,46.05157682051601],"type":"Point"}
+  "geometry": {"coordinates":[14.720318,46.051577],"type":"Point"}
 }

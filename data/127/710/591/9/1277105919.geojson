@@ -70,7 +70,7 @@
         "wk:page":"Ra%C4%8Deva"
     },
     "wof:country":"SI",
-    "wof:geomhash":"1ae5da660fa24f430136e9117a2eada9",
+    "wof:geomhash":"353f7665a2ba1a3774c5666b59235968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.15313,
     46.02894000000001
 ],
-  "geometry": {"coordinates":[14.15313,46.02894000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.15313,46.02894],"type":"Point"}
 }

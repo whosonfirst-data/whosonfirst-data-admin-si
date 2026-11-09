@@ -73,7 +73,7 @@
         "wk:page":"Stogovci%2C_Apa%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"71608dc6b36218119cb39a2e07e23d24",
+    "wof:geomhash":"961d510ecc230b6d2f08c4793c2f0637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     15.84611,
     46.69694000000001
 ],
-  "geometry": {"coordinates":[15.84611,46.69694000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.84611,46.69694],"type":"Point"}
 }

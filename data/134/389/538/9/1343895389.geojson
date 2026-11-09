@@ -70,7 +70,7 @@
         "wk:page":"Gornja_Ko%C5%A1ana"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8452987dde2dcfe157314aa5de00b99e",
+    "wof:geomhash":"c38914fa7814d6f4259e3f1ba6daef01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.12061,
     45.68474000000001
 ],
-  "geometry": {"coordinates":[14.12061,45.68474000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.12061,45.68474],"type":"Point"}
 }

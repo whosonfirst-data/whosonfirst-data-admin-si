@@ -68,7 +68,7 @@
         "wk:page":"%C5%A0entjan%C5%BE%2C_Sevnica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"28d7ce9b03a2f883b19d0c84fb234c19",
+    "wof:geomhash":"85ed63ec687ace6e997d7e1647e868ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     15.16722,
     46.01139000000001
 ],
-  "geometry": {"coordinates":[15.16722,46.01139000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.16722,46.01139],"type":"Point"}
 }

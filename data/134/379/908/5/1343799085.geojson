@@ -70,7 +70,7 @@
         "wk:page":"%C5%A0enbric"
     },
     "wof:country":"SI",
-    "wof:geomhash":"51609755b952c518be668805e03b414b",
+    "wof:geomhash":"746b55eedce004054d610bda6821105f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.1326,
     46.38059000000001
 ],
-  "geometry": {"coordinates":[15.1326,46.38059000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.1326,46.38059],"type":"Point"}
 }

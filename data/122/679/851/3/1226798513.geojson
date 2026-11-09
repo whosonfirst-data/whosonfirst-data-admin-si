@@ -64,7 +64,7 @@
         "wk:page":"Spodnje_Duplice"
     },
     "wof:country":"SI",
-    "wof:geomhash":"da93187b06b5509169207c527eea9a10",
+    "wof:geomhash":"bb43ccd48bdd5de5c4b8a9fe8d71973b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.68729,
     45.96259000000001
 ],
-  "geometry": {"coordinates":[14.68729,45.96259000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.68729,45.96259],"type":"Point"}
 }

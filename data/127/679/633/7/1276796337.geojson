@@ -67,7 +67,7 @@
         "wk:page":"Laze_v_Tuhinju"
     },
     "wof:country":"SI",
-    "wof:geomhash":"00cf58daa5575b2c7194b76919ed19ce",
+    "wof:geomhash":"197219bbb0b1f0fc4ed4862d3027fce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.76111,
     46.21944000000001
 ],
-  "geometry": {"coordinates":[14.76111,46.21944000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.76111,46.21944],"type":"Point"}
 }

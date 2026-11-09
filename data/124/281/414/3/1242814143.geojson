@@ -67,7 +67,7 @@
         "wk:page":"%C5%BDerovinci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8b8a7c8c234219386e3a00a403f03ab4",
+    "wof:geomhash":"57045f6c51a47b9a38965b7a109c9ad6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.15387999999999,
     46.48546
 ],
-  "geometry": {"coordinates":[16.15387999999999,46.48546],"type":"Point"}
+  "geometry": {"coordinates":[16.15388,46.48546],"type":"Point"}
 }

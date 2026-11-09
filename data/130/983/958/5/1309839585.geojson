@@ -64,7 +64,7 @@
         "wk:page":"Kri%C5%A1ka_Reber"
     },
     "wof:country":"SI",
-    "wof:geomhash":"79ef01c84d9123af2466295a258aeae0",
+    "wof:geomhash":"002f4b6ff9d4645ac32f80d6d0fba344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.00083,
     45.95314000000001
 ],
-  "geometry": {"coordinates":[15.00083,45.95314000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.00083,45.95314],"type":"Point"}
 }

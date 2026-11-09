@@ -72,7 +72,7 @@
         "wk:page":"Tolminske_Ravne"
     },
     "wof:country":"SI",
-    "wof:geomhash":"82541a8f50dd7529b69a9b75816869e4",
+    "wof:geomhash":"a3102b959486951fbef70cc02176f1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     13.77914,
     46.23627000000001
 ],
-  "geometry": {"coordinates":[13.77914,46.23627000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.77914,46.23627],"type":"Point"}
 }

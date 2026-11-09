@@ -82,7 +82,7 @@
         "wk:page":"Dolenci%2C_%C5%A0alovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"380b0a774d9645b90d2b93127ca848d7",
+    "wof:geomhash":"6ee92b2416ffdb2a4211fac4cdb08cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     16.28972000000001,
     46.85222
 ],
-  "geometry": {"coordinates":[16.28972000000001,46.85222],"type":"Point"}
+  "geometry": {"coordinates":[16.28972,46.85222],"type":"Point"}
 }

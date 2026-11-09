@@ -67,7 +67,7 @@
         "wk:page":"Preserje%2C_Nova_Gorica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f919a91275b259e7c0a73c0badff7c75",
+    "wof:geomhash":"4cc162811210c6c4a656a58e11f9a1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     13.78778,
     45.87139000000001
 ],
-  "geometry": {"coordinates":[13.78778,45.87139000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.78778,45.87139],"type":"Point"}
 }

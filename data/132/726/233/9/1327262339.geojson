@@ -70,7 +70,7 @@
         "wk:page":"Stroji%C4%8Di"
     },
     "wof:country":"SI",
-    "wof:geomhash":"b117e6e11c1c98a2e36c8783245b3b68",
+    "wof:geomhash":"bdcc1ab85e65061bcaa39412dc9d1dc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.69192,
     45.54669000000001
 ],
-  "geometry": {"coordinates":[14.69192,45.54669000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.69192,45.54669],"type":"Point"}
 }

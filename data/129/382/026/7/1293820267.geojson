@@ -67,7 +67,7 @@
         "wk:page":"Rajhenav"
     },
     "wof:country":"SI",
-    "wof:geomhash":"26016905fb5347fe748d564cdc84d2c7",
+    "wof:geomhash":"7054cbf5f1ef8ba7d4bbd2d43d42e516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.99667,
     45.63444000000001
 ],
-  "geometry": {"coordinates":[14.99667,45.63444000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.99667,45.63444],"type":"Point"}
 }

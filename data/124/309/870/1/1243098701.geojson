@@ -64,7 +64,7 @@
         "wk:page":"Leskovec%2C_Ivan%C4%8Dna_Gorica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9bac5429bf8f09c435a3b55412ea833d",
+    "wof:geomhash":"d262a5ee5e8675569ff7b1a5ee9ae3da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.75306,
     45.98889000000001
 ],
-  "geometry": {"coordinates":[14.75306,45.98889000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.75306,45.98889],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Cvi%C5%A1lerji"
     },
     "wof:country":"SI",
-    "wof:geomhash":"6b4ff98d585541c7f45709d722d1d210",
+    "wof:geomhash":"5fd8e256437bdb66709a313976faa5ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     14.88861,
     45.63639000000001
 ],
-  "geometry": {"coordinates":[14.88861,45.63639000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.88861,45.63639],"type":"Point"}
 }

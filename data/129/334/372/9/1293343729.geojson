@@ -50,7 +50,7 @@
         "wk:page":"Brezovica%2C_Hrpelje%E2%80%93Kozina"
     },
     "wof:country":"SI",
-    "wof:geomhash":"44fbf68926b5d2ddefce4b5a6339c0a0",
+    "wof:geomhash":"8e8ee52af5138deb55730ad535188fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     14.0,
     45.6
 ],
-  "geometry": {"coordinates":[14.0,45.6],"type":"Point"}
+  "geometry": {"coordinates":[14,45.6],"type":"Point"}
 }

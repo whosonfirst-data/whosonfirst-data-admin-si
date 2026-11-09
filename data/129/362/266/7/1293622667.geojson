@@ -67,7 +67,7 @@
         "wk:page":"Slamnjak"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ef34a1c188a801d837a5f044b650d451",
+    "wof:geomhash":"7f08df9f0ba9171d6774b5996606c55a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.21127000000001,
     46.4935
 ],
-  "geometry": {"coordinates":[16.21127000000001,46.4935],"type":"Point"}
+  "geometry": {"coordinates":[16.21127,46.4935],"type":"Point"}
 }

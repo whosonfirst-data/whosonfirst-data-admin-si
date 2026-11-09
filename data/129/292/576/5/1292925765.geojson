@@ -67,7 +67,7 @@
         "wk:page":"Cirnik%2C_Bre%C5%BEice"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4c92bcf0b0b744525a6a252722dd64b5",
+    "wof:geomhash":"cc22a32b311491e1525ca1f02093f5d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.64286,
     45.86689000000001
 ],
-  "geometry": {"coordinates":[15.64286,45.86689000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.64286,45.86689],"type":"Point"}
 }

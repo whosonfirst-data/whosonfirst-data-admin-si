@@ -76,7 +76,7 @@
         "wk:page":"Gibina%2C_Razkri%C5%BEje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ebdfaaf79584a927e6f9c7df48f7df6f",
+    "wof:geomhash":"2c8d43718e40ac627a6ad0a18192fda5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.30027999999999,
     46.52167
 ],
-  "geometry": {"coordinates":[16.30027999999999,46.52167],"type":"Point"}
+  "geometry": {"coordinates":[16.30028,46.52167],"type":"Point"}
 }

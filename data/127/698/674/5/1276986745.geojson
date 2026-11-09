@@ -62,7 +62,7 @@
         "gn:id":3218196
     },
     "wof:country":"SI",
-    "wof:geomhash":"f165cc4f536f4ef477a062c1332aee65",
+    "wof:geomhash":"c554136d6229ff611c35f846ec89ba91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     13.91972,
     46.32944000000001
 ],
-  "geometry": {"coordinates":[13.91972,46.32944000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.91972,46.32944],"type":"Point"}
 }

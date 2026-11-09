@@ -64,7 +64,7 @@
         "wk:page":"Stara_Gora%2C_Sveti_Jurij_ob_%C5%A0%C4%8Davnici"
     },
     "wof:country":"SI",
-    "wof:geomhash":"13614cdc536787740750f207449a3a7b",
+    "wof:geomhash":"012ab656d014f67f405cdaa57f2278a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     16.03126,
     46.55034000000001
 ],
-  "geometry": {"coordinates":[16.03126,46.55034000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.03126,46.55034],"type":"Point"}
 }

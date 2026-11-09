@@ -67,7 +67,7 @@
         "wk:page":"Kostanjek"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c463ac567173f9f19ba02ec9485b954a",
+    "wof:geomhash":"37586b02dd964a6350fbda674657a7da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.54603,
     46.00624000000001
 ],
-  "geometry": {"coordinates":[15.54603,46.00624000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.54603,46.00624],"type":"Point"}
 }

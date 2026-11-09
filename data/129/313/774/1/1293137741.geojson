@@ -67,7 +67,7 @@
         "wk:page":"Arclin"
     },
     "wof:country":"SI",
-    "wof:geomhash":"85e4e5082b121141fe1f9503241a66ce",
+    "wof:geomhash":"0991f200dad560efe04707b5bac8107f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.30306,
     46.27444000000001
 ],
-  "geometry": {"coordinates":[15.30306,46.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.30306,46.27444],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Brezje_nad_Kamnikom"
     },
     "wof:country":"SI",
-    "wof:geomhash":"81c1aea64e3c0533d3353d1c637fb5db",
+    "wof:geomhash":"ce67f2ecb3036bc7a8526676fc414e63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.62519,
     46.26159000000001
 ],
-  "geometry": {"coordinates":[14.62519,46.26159000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.62519,46.26159],"type":"Point"}
 }

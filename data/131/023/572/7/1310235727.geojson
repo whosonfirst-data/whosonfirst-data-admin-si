@@ -67,7 +67,7 @@
         "wk:page":"Rovt_pod_Menino"
     },
     "wof:country":"SI",
-    "wof:geomhash":"a09506b2a1e5264651a1cb0a35182a88",
+    "wof:geomhash":"59d8a9d4f6b6cded5bf38151a8163d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.87859,
     46.26029000000001
 ],
-  "geometry": {"coordinates":[14.87859,46.26029000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.87859,46.26029],"type":"Point"}
 }

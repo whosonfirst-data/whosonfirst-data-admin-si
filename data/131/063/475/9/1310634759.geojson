@@ -68,7 +68,7 @@
         "wk:page":"Gorenji_Pod%C5%A1umberk"
     },
     "wof:country":"SI",
-    "wof:geomhash":"fbf5ac78f668cf4b6271f470b126fa5a",
+    "wof:geomhash":"6632e36ccc715089bd40bc8feeaefa5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     14.90139,
     45.88417000000001
 ],
-  "geometry": {"coordinates":[14.90139,45.88417000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.90139,45.88417],"type":"Point"}
 }

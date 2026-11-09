@@ -64,7 +64,7 @@
         "wk:page":"Placerovci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"8288105494e3d36b9c11e678cb200c78",
+    "wof:geomhash":"ff6dcfefe5ddfe884db05a4dd6877602",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     16.0286,
     46.39644000000001
 ],
-  "geometry": {"coordinates":[16.0286,46.39644000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.0286,46.39644],"type":"Point"}
 }

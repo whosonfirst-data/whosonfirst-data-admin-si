@@ -70,7 +70,7 @@
         "wk:page":"Lastni%C4%8D"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d89a9b1ca8ec29291abbd3225c17a1ba",
+    "wof:geomhash":"d85f307b8af54aab83f6e262d998ed44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.60282,
     46.07964000000001
 ],
-  "geometry": {"coordinates":[15.60282,46.07964000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.60282,46.07964],"type":"Point"}
 }

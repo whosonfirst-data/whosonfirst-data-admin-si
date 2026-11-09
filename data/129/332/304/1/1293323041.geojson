@@ -67,7 +67,7 @@
         "wk:page":"Lopata%2C_%C5%BDu%C5%BEemberk"
     },
     "wof:country":"SI",
-    "wof:geomhash":"38365591f22de5497b4547e41a824240",
+    "wof:geomhash":"e3a1e097cebbaac80d35b32f2def6584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.9025,
     45.78194000000001
 ],
-  "geometry": {"coordinates":[14.9025,45.78194000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.9025,45.78194],"type":"Point"}
 }

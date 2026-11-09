@@ -64,7 +64,7 @@
         "wk:page":"Re%C4%8Dica%2C_Ilirska_Bistrica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"c7034e55116692f43674fa77317e86d6",
+    "wof:geomhash":"57c22e7ac5ff0e43100b48d3092fbec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.22435,
     45.57089000000001
 ],
-  "geometry": {"coordinates":[14.22435,45.57089000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.22435,45.57089],"type":"Point"}
 }

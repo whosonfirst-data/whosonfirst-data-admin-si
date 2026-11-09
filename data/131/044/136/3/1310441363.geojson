@@ -70,7 +70,7 @@
         "wk:page":"Gorenja_Vas_pri_%C5%A0marjeti"
     },
     "wof:country":"SI",
-    "wof:geomhash":"04107006bfe0487afcef7fdaee65a88e",
+    "wof:geomhash":"e5e9000e7202c0ba265813524a9f4fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.2381,
     45.88717000000001
 ],
-  "geometry": {"coordinates":[15.2381,45.88717000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.2381,45.88717],"type":"Point"}
 }

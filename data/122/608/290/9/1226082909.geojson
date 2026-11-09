@@ -61,7 +61,7 @@
         "wk:page":"Studence%2C_Hrastnik"
     },
     "wof:country":"SI",
-    "wof:geomhash":"9f361adb41f4ea6f796f9cc677805c1a",
+    "wof:geomhash":"7d501d077d7385c6f1567f4ea40780c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.07815,
     46.15172000000001
 ],
-  "geometry": {"coordinates":[15.07815,46.15172000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.07815,46.15172],"type":"Point"}
 }

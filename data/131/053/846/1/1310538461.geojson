@@ -73,7 +73,7 @@
         "wk:page":"Vimolj%2C_Kostel"
     },
     "wof:country":"SI",
-    "wof:geomhash":"1f02fbe5fcfdd60ce86fc4edbf19f46a",
+    "wof:geomhash":"5565f0fa05859531082b2ff645ac920a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     14.87378,
     45.51674000000001
 ],
-  "geometry": {"coordinates":[14.87378,45.51674000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.87378,45.51674],"type":"Point"}
 }

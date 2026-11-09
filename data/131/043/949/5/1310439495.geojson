@@ -64,7 +64,7 @@
         "wk:page":"Koroma%C4%8Di%E2%80%93Bo%C5%A1kini"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ca8434e99ee4ec50ae13751278e5f3df",
+    "wof:geomhash":"1dd69efdef4a53450db8b32474c2e724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.83406,
     45.46899000000001
 ],
-  "geometry": {"coordinates":[13.83406,45.46899000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.83406,45.46899],"type":"Point"}
 }

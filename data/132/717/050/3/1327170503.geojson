@@ -64,7 +64,7 @@
         "wk:page":"Podbela"
     },
     "wof:country":"SI",
-    "wof:geomhash":"f83eecea817c74b77df67cb0d24728cd",
+    "wof:geomhash":"f86ad1cf9431bcd4887ee459a9db1589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.46083,
     46.24639000000001
 ],
-  "geometry": {"coordinates":[13.46083,46.24639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.46083,46.24639],"type":"Point"}
 }

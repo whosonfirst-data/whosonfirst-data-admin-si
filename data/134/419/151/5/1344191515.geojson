@@ -61,7 +61,7 @@
         "wk:page":"Zgornje_Koseze"
     },
     "wof:country":"SI",
-    "wof:geomhash":"b83fcef85e3987f73b914809988c3366",
+    "wof:geomhash":"d1af2bb215dfb63b32a0916657317ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     14.80139,
     46.14944000000001
 ],
-  "geometry": {"coordinates":[14.80139,46.14944000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.80139,46.14944],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Kamenica%2C_Sevnica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"d5a485d8464bea7c820251ebd59bbc0d",
+    "wof:geomhash":"03ccec8b8283d7300af22f7bd230643f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.2,
     46.0
 ],
-  "geometry": {"coordinates":[15.2,46.0],"type":"Point"}
+  "geometry": {"coordinates":[15.2,46],"type":"Point"}
 }

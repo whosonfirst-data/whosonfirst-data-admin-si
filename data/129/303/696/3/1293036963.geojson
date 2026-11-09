@@ -61,7 +61,7 @@
         "wk:page":"Coljava"
     },
     "wof:country":"SI",
-    "wof:geomhash":"51ae3f322b5e02ec994b245f6dbf3c03",
+    "wof:geomhash":"f799d7e34579dbcbdeaecdb40018118f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     13.78417,
     45.79799000000001
 ],
-  "geometry": {"coordinates":[13.78417,45.79799000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.78417,45.79799],"type":"Point"}
 }

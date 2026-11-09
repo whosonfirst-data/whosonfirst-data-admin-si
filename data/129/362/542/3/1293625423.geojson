@@ -67,7 +67,7 @@
         "wk:page":"Bun%C4%8Dani"
     },
     "wof:country":"SI",
-    "wof:geomhash":"57558960af9503e5893989edcdd60392",
+    "wof:geomhash":"08dfdea9bb9b7a4eac702fd353ef8102",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.14027999999999,
     46.59278
 ],
-  "geometry": {"coordinates":[16.14027999999999,46.59278],"type":"Point"}
+  "geometry": {"coordinates":[16.14028,46.59278],"type":"Point"}
 }

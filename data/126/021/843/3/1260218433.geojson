@@ -64,7 +64,7 @@
         "wk:page":"Orehovica%2C_Vipava"
     },
     "wof:country":"SI",
-    "wof:geomhash":"ff9d7c6f17e20cb42ba777b8857b8c4f",
+    "wof:geomhash":"329944f2ce55fb5b6e6b34af167bb4ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     13.96552,
     45.78964000000001
 ],
-  "geometry": {"coordinates":[13.96552,45.78964000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.96552,45.78964],"type":"Point"}
 }

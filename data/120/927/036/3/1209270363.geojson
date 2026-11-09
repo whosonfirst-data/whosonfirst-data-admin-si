@@ -61,7 +61,7 @@
         "wk:page":"Strejaci"
     },
     "wof:country":"SI",
-    "wof:geomhash":"4cc4afdf8094cf56719bdce3310ba31e",
+    "wof:geomhash":"0d9cfe041ae838a7ca2d1e737beff694",
     "wof:hierarchy":[
         {
             "country_id":85633779,
@@ -86,5 +86,5 @@
     15.98747,
     46.43494000000001
 ],
-  "geometry": {"coordinates":[15.98747,46.43494000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.98747,46.43494],"type":"Point"}
 }

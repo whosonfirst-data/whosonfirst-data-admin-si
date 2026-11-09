@@ -67,7 +67,7 @@
         "wk:page":"Zapotok%2C_Ig"
     },
     "wof:country":"SI",
-    "wof:geomhash":"7b8cfa5fcabd4e097efb1771033fa6f8",
+    "wof:geomhash":"0e0126ce49cc5d658ae8b9454f16e1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.57306,
     45.87694000000001
 ],
-  "geometry": {"coordinates":[14.57306,45.87694000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.57306,45.87694],"type":"Point"}
 }

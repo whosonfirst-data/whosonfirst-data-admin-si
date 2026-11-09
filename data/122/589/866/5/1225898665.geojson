@@ -67,7 +67,7 @@
         "wk:page":"Laj%C5%A1e%2C_Gorenja_Vas%E2%80%93Poljane"
     },
     "wof:country":"SI",
-    "wof:geomhash":"e275310ae508f9d765a27e9c69b64dca",
+    "wof:geomhash":"1bf8ffb98b0c8d0b1b103ec620da27e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.0721,
     46.14474000000001
 ],
-  "geometry": {"coordinates":[14.0721,46.14474000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.0721,46.14474],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Zgornja_Ba%C4%8Dkova"
     },
     "wof:country":"SI",
-    "wof:geomhash":"66404a066432cd35267657b0b6b56c09",
+    "wof:geomhash":"f70234b60d118503a498156fd7043ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     15.87493,
     46.64899000000001
 ],
-  "geometry": {"coordinates":[15.87493,46.64899000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.87493,46.64899],"type":"Point"}
 }

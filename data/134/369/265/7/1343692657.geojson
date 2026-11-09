@@ -64,7 +64,7 @@
         "wk:page":"Lipa%2C_Zre%C4%8De"
     },
     "wof:country":"SI",
-    "wof:geomhash":"21d1a9b988dfcff8603da0ea9f088587",
+    "wof:geomhash":"329cfe238a9d0e0d23b2517ea2274f22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.35148,
     46.36819000000001
 ],
-  "geometry": {"coordinates":[15.35148,46.36819000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.35148,46.36819],"type":"Point"}
 }

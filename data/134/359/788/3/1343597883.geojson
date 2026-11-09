@@ -64,7 +64,7 @@
         "wk:page":"Hudi_Graben"
     },
     "wof:country":"SI",
-    "wof:geomhash":"743f854e0c4067d813f96b081b3e3e77",
+    "wof:geomhash":"92ff4959f499c995b5e9ccfa55f3fc63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     14.25575,
     46.36969000000001
 ],
-  "geometry": {"coordinates":[14.25575,46.36969000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.25575,46.36969],"type":"Point"}
 }

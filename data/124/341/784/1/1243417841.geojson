@@ -67,7 +67,7 @@
         "wk:page":"Zilje"
     },
     "wof:country":"SI",
-    "wof:geomhash":"54ffce943320f9f1da946bb109ead1c2",
+    "wof:geomhash":"47c45c53f01922884dc295844aa02c85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.30063,
     45.47179000000001
 ],
-  "geometry": {"coordinates":[15.30063,45.47179000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.30063,45.47179],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Konjsko%2C_Sevnica"
     },
     "wof:country":"SI",
-    "wof:geomhash":"5c34aa324d3e48555d3fba629245912c",
+    "wof:geomhash":"3f1cbb8aae7d8555636cfbb6c4a3f5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     15.3,
     46.0
 ],
-  "geometry": {"coordinates":[15.3,46.0],"type":"Point"}
+  "geometry": {"coordinates":[15.3,46],"type":"Point"}
 }
