@@ -1,0 +1,75 @@
+{
+  "id": 9895056979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65201,45.89889,14.65201,45.89889",
+    "geom:latitude":45.89889,
+    "geom:longitude":14.65201,
+    "gn:population":46,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3191493: name \"Ro\u017enik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3191493"
+        },
+        {
+            "citation":"GeoNames populated place 3191493: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3191493"
+        },
+        {
+            "citation":"GeoNames populated place 3191493: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3191493"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959533 (Grosuplje), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959533,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191493
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ac71a94ccf88f3a9bf2d727458b139e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959533,
+            "locality_id":9895056979,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":9895056979,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Ro\u017enik",
+    "wof:parent_id":1108959533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65201,
+    45.89889,
+    14.65201,
+    45.89889
+],
+  "geometry": {"coordinates":[14.65201,45.89889],"type":"Point"}
+}

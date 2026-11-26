@@ -1,0 +1,75 @@
+{
+  "id": 9895056980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11667,46.1,14.11667,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":14.11667,
+    "gn:population":178,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3193056: name \"Podgora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3193056"
+        },
+        {
+            "citation":"GeoNames populated place 3193056: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3193056"
+        },
+        {
+            "citation":"GeoNames populated place 3193056: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3193056"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959897 (Gorenja vas-Poljane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959897,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193056
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"44b063633a8d9ad2fd4d39e52ef81350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959897,
+            "locality_id":9895056980,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":9895056980,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Podgora",
+    "wof:parent_id":1108959897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11667,
+    46.1,
+    14.11667,
+    46.1
+],
+  "geometry": {"coordinates":[14.11667,46.1],"type":"Point"}
+}

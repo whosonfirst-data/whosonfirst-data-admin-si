@@ -1,0 +1,74 @@
+{
+  "id": 9895056978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58333,46.06667,14.58333,46.06667",
+    "geom:latitude":46.06667,
+    "geom:longitude":14.58333,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3189631: name \"Studenec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3189631"
+        },
+        {
+            "citation":"GeoNames populated place 3189631: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3189631"
+        },
+        {
+            "citation":"GeoNames populated place 3189631: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3189631"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959501 (Ljubljana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959501,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189631
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ef986a4b3376259600285f3af38e30fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959501,
+            "locality_id":9895056978,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":9895056978,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Studenec",
+    "wof:parent_id":1108959501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58333,
+    46.06667,
+    14.58333,
+    46.06667
+],
+  "geometry": {"coordinates":[14.58333,46.06667],"type":"Point"}
+}

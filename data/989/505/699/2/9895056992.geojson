@@ -1,0 +1,75 @@
+{
+  "id": 9895056992,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86908,45.59167,13.86908,45.59167",
+    "geom:latitude":45.59167,
+    "geom:longitude":13.86908,
+    "gn:population":19,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8989072: name \"Socerb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8989072"
+        },
+        {
+            "citation":"GeoNames populated place 8989072: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8989072"
+        },
+        {
+            "citation":"GeoNames populated place 8989072: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8989072"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959527 (Koper), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959527,
+        1108959951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8989072
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ffd83b5426613fc7fefbe6cdd3892e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959527,
+            "locality_id":9895056992,
+            "region_id":1108959951
+        }
+    ],
+    "wof:id":9895056992,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Socerb",
+    "wof:parent_id":1108959527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86908,
+    45.59167,
+    13.86908,
+    45.59167
+],
+  "geometry": {"coordinates":[13.86908,45.59167],"type":"Point"}
+}
