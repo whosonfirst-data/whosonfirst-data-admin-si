@@ -1,0 +1,75 @@
+{
+  "id": 9895056988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19035,45.49114,14.19035,45.49114",
+    "geom:latitude":45.49114,
+    "geom:longitude":14.19035,
+    "gn:population":52,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8988400: name \"Starod\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8988400"
+        },
+        {
+            "citation":"GeoNames populated place 8988400: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8988400"
+        },
+        {
+            "citation":"GeoNames populated place 8988400: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8988400"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959873 (Ilirska Bistrica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959873,
+        1108959953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988400
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"b6448f0e2e14ba1987bb7810c27f4269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959873,
+            "locality_id":9895056988,
+            "region_id":1108959953
+        }
+    ],
+    "wof:id":9895056988,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Starod",
+    "wof:parent_id":1108959873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19035,
+    45.49114,
+    14.19035,
+    45.49114
+],
+  "geometry": {"coordinates":[14.19035,45.49114],"type":"Point"}
+}

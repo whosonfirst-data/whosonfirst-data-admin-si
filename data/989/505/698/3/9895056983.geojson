@@ -1,0 +1,75 @@
+{
+  "id": 9895056983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38302,46.50644,15.38302,46.50644",
+    "geom:latitude":46.50644,
+    "geom:longitude":15.38302,
+    "gn:population":357,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8987000: name \"Kumen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8987000"
+        },
+        {
+            "citation":"GeoNames populated place 8987000: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8987000"
+        },
+        {
+            "citation":"GeoNames populated place 8987000: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8987000"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959679 (Lovrenc na Pohorju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959679,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987000
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"8a5749cae1c27425ec45f657c50d157d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959679,
+            "locality_id":9895056983,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":9895056983,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Kumen",
+    "wof:parent_id":1108959679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38302,
+    46.50644,
+    15.38302,
+    46.50644
+],
+  "geometry": {"coordinates":[15.38302,46.50644],"type":"Point"}
+}

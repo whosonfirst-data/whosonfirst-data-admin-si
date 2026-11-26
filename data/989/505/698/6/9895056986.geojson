@@ -1,0 +1,75 @@
+{
+  "id": 9895056986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60221,46.68026,15.60221,46.68026",
+    "geom:latitude":46.68026,
+    "geom:longitude":15.60221,
+    "gn:population":90,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8987919: name \"Ciringa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8987919"
+        },
+        {
+            "citation":"GeoNames populated place 8987919: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8987919"
+        },
+        {
+            "citation":"GeoNames populated place 8987919: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8987919"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959469 (Kungota), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959469,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8987919
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"d1c1d69c2fbd955b0d230c3784955895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959469,
+            "locality_id":9895056986,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":9895056986,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Ciringa",
+    "wof:parent_id":1108959469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60221,
+    46.68026,
+    15.60221,
+    46.68026
+],
+  "geometry": {"coordinates":[15.60221,46.68026],"type":"Point"}
+}

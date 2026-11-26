@@ -1,0 +1,75 @@
+{
+  "id": 9895056989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92128,46.04998,14.92128,46.04998",
+    "geom:latitude":46.04998,
+    "geom:longitude":14.92128,
+    "gn:population":30,
+    "iso:country":"SI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8988837: name \"Dolgo Brdo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8988837"
+        },
+        {
+            "citation":"GeoNames populated place 8988837: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8988837"
+        },
+        {
+            "citation":"GeoNames populated place 8988837: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8988837"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108959907 (Litija), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633779,
+        102191581,
+        1108959907,
+        1108959963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8988837
+    },
+    "wof:country":"SI",
+    "wof:geomhash":"ec1da4a18ecf31b4cae29e16016eefe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959907,
+            "locality_id":9895056989,
+            "region_id":1108959963
+        }
+    ],
+    "wof:id":9895056989,
+    "wof:lastmodified":1795735123,
+    "wof:name":"Dolgo Brdo",
+    "wof:parent_id":1108959907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-si",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92128,
+    46.04998,
+    14.92128,
+    46.04998
+],
+  "geometry": {"coordinates":[14.92128,46.04998],"type":"Point"}
+}
